@@ -1,0 +1,1 @@
+Extract the reasons for control of {country} from page {country_chart_page}. Only provide the reasons for control marked with an X using their abbreviated name and number. 

@@ -3,3 +3,6 @@ trade_analysis_pdfs/*
 
 # exception to the rule
 !trade_analysis_pdfs/.gitkeep 
+
+# Environment variables
+.env

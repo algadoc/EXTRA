@@ -1,0 +1,382 @@
+{
+    "country": "Brazil",
+    "report_year": 2018,
+    "file_path": "c:\\Users\\alfon\\git\\export_control_analysis\\trade_analysis_pdfs\\2475-2018-statistical-analysis-of-u-s-trade-with-brazil-pdf.pdf",
+    "export_balance": {
+        "country": "Brazil",
+        "export_value": [
+            44.1,
+            42.4,
+            31.6,
+            30,
+            37.2,
+            39.5
+        ],
+        "import_value": [
+            27.5,
+            30,
+            27.4,
+            26,
+            29.4,
+            31.1
+        ],
+        "report_year": 2018,
+        "year": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ]
+    },
+    "commodities": {
+        "commodities_traded_export_percentage": [
+            3.4,
+            24.3,
+            23.0,
+            0.6,
+            0.5,
+            0.7,
+            1.8,
+            19.5,
+            18.5,
+            4.4,
+            0.0,
+            0.4,
+            0.4,
+            2.2
+        ],
+        "commodities_traded_import_percentage": [
+            12.1,
+            18.4,
+            9.5,
+            9.2,
+            0.9,
+            4.6,
+            12.7,
+            8.6,
+            10.3,
+            0.5,
+            0.5,
+            0.9,
+            0.4,
+            11.4
+        ],
+        "commodities_traded_type": [
+            "Agriculture",
+            "Minerals",
+            "Chemicals, Plastics, Leather",
+            "Wood Products",
+            "Textiles and Footwear",
+            "Stone, Glass, & Semiprecious Metals",
+            "Base metals",
+            "Machinery",
+            "Transportation",
+            "Optical, Measuring, Medical or Other Instruments",
+            "Arms & Ammunition",
+            "Miscellaneous Manufactured Items",
+            "Art & Antiques",
+            "Special Items"
+        ],
+        "country": "Brazil",
+        "report_year": 2018
+    },
+    "regulatory_authority": {
+        "country": "Brazil",
+        "regulatory_authority_600_series": [
+            1.7,
+            1.0,
+            1.8
+        ],
+        "regulatory_authority_bis_license": [
+            85.6,
+            37110.1,
+            123.5
+        ],
+        "regulatory_authority_bis_license_exception": [
+            345.4,
+            49.5,
+            320.0
+        ],
+        "regulatory_authority_department_of_commerce_values": [
+            29803.0,
+            37110.1,
+            39099.2
+        ],
+        "regulatory_authority_department_of_state_values": [
+            244.6,
+            25.8,
+            420.7
+        ],
+        "regulatory_authority_nlr_not_reporting_eccn": [
+            6199.6,
+            7301.5,
+            9273.1
+        ],
+        "regulatory_authority_nlr_reporting_ear99": [
+            16823.2,
+            22372.7,
+            21516.0
+        ],
+        "regulatory_authority_nlr_reporting_eccn": [
+            6008.5,
+            7102.3,
+            7864.8
+        ],
+        "regulatory_authority_other_usg_agencies_values": [
+            18.7,
+            67.7,
+            123.5
+        ],
+        "regulatory_authority_years": [
+            2016,
+            2017,
+            2018
+        ],
+        "report_year": 2018
+    },
+    "country_chart": {
+        "country": "Brazil",
+        "reasons_for_control": [
+            "CB:1",
+            "CB:2",
+            "CB:3",
+            "NP:1",
+            "NP:2",
+            "NS:1",
+            "NS:2",
+            "MT:1",
+            "RS:1",
+            "RS:2",
+            "FC:1",
+            "CC:1",
+            "CC:2",
+            "CC:3",
+            "AT:1",
+            "AT:2"
+        ],
+        "report_year": 2018
+    },
+    "top_eccn_by_value": {
+        "country": "Brazil",
+        "report_year": 2018,
+        "top_eccn_value_exceptions_descriptions": [
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101",
+            "Military Aircraft and Related Commodities",
+            "Instrumentation, Navigation Equip./Systems Not",
+            "No ECCN is required for License Exceptions TMP*",
+            "\"Software\" as follows (see List of Items Controlled)",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Military Gas Turbine Engines and Related Commodities",
+            "Acoustic Systems, Equipment and \"Components\"",
+            "\"Information Security\" Test, Inspection and \"Production\" Equipment"
+        ],
+        "top_eccn_value_exceptions_eccn_codes": [
+            "5A002",
+            "9A991",
+            "9A610",
+            "7A103",
+            "No ECCN",
+            "5D002",
+            "7A994",
+            "9A619",
+            "6A001",
+            "5B002"
+        ],
+        "top_eccn_value_licensed_descriptions": [
+            "Military Gas Turbine Engines and Related Commodities",
+            "Military Aircraft and Related Commodities",
+            "Aero Gas Turbine Engines",
+            "Instrumentation, Navigation Equip./Systems Not",
+            "Chemicals, Precursors for toxic Chemical Agents",
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Equip. for Handling Biological Materials",
+            "Assemblies/Components Incorporating Technologies Controlled by 9E003.a, ...",
+            "Cameras",
+            "Navigation and Avionics equipment and systems, and \"parts\""
+        ],
+        "top_eccn_value_licensed_eccn_codes": [
+            "9A619",
+            "9A610",
+            "9A001",
+            "7A103",
+            "1C350",
+            "5A002",
+            "2B352",
+            "9A003",
+            "6A003",
+            "7A611"
+        ],
+        "top_eccn_value_nlr_with_eccn_descriptions": [
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101",
+            "Equipment not controlled by 5A002",
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Specific Processing Equip., N.E.S.",
+            "Computers Not Controlled By 4A001 or 4A003",
+            "Vessels, Marine Systems or Equip. not Controlled by 8A001 or 8A002...",
+            "Specific Processing Equip., N.E.S.",
+            "Commercial Charges and Devices Containing Energetic Materials"
+        ],
+        "top_eccn_value_nlr_with_eccn_eccn_codes": [
+            "EAR99",
+            "9A991",
+            "5A992",
+            "5A991",
+            "7A994",
+            "2B999",
+            "4A994",
+            "8A992",
+            "3A999",
+            "1C992"
+        ]
+    },
+    "top_eccn_by_count": {
+        "country": "Brazil",
+        "report_year": 2018,
+        "top_eccn_count_exceptions_descriptions": [
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Military Aircraft and Related Commodities",
+            "\"Software\" as follows (see List of Items Controlled)",
+            "Instrumentation, Navigation Equip./Systems Not",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Electronic Components",
+            "No ECCN is required for License Exceptions TMP*",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101",
+            "\"Information Security\" \"software\" not controlled by 5D002"
+        ],
+        "top_eccn_count_exceptions_eccn_codes": [
+            "5A002",
+            "9A610",
+            "5D002",
+            "7A103",
+            "EAR99",
+            "3A001",
+            "No ECCN",
+            "7A994",
+            "9A991",
+            "5D992"
+        ],
+        "top_eccn_count_licensed_descriptions": [
+            "Military Aircraft and Related Commodities",
+            "Chemicals, Precursors for toxic Chemical Agents",
+            "Chemical Manufacturing Facilities and Equip.",
+            "Shotguns, Buckshot,Shotgun Shells",
+            "Instrumentation, Navigation Equip./Systems Not",
+            "Optical Sighting Devices for Firearms",
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Human and Animal Pathogens and toxins",
+            "Ground Vehicles and Related Commodities",
+            "Graphite and Ceramic Materials, Other Than Those Controlled by 1C007 ..."
+        ],
+        "top_eccn_count_licensed_eccn_codes": [
+            "9A610",
+            "1C350",
+            "2B350",
+            "0A984",
+            "7A103",
+            "0A987",
+            "5A002",
+            "1C351",
+            "0A606",
+            "1C107"
+        ],
+        "top_eccn_count_nlr_with_eccn_descriptions": [
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101 ...",
+            "Equipment not controlled by 5A002",
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Specific Processing Equip., N.E.S.",
+            "Computers Not Controlled By 4A001 or 4A003",
+            "Vessels, Marine Systems or Equip. not Controlled by 8A001 or 8A002...",
+            "Specific Processing Equip., N.E.S.",
+            "Commercial Charges and Devices Containing Energetic Materials"
+        ],
+        "top_eccn_count_nlr_with_eccn_eccn_codes": [
+            "EAR99",
+            "9A991",
+            "5A992",
+            "5A991",
+            "7A994",
+            "4A994",
+            "3A991",
+            "3A999",
+            "1A995",
+            "8A992"
+        ]
+    },
+    "export_license": {
+        "country": "Brazil",
+        "export_applications_approved": [
+            1238,
+            1056,
+            992,
+            1039,
+            1161
+        ],
+        "export_applications_approved_value": [
+            2338.1,
+            3911.8,
+            1073.0,
+            819.4,
+            970.9
+        ],
+        "export_applications_available_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "export_applications_average_processing_time": [
+            20,
+            19,
+            20,
+            14,
+            14
+        ],
+        "export_applications_deeemed_export_license_approved": [
+            6
+        ],
+        "export_applications_deeemed_export_license_denied": [
+            0
+        ],
+        "export_applications_deeemed_export_license_rwa": [
+            1
+        ],
+        "export_applications_denied": [
+            4,
+            1,
+            1,
+            1,
+            0
+        ],
+        "export_applications_denied_value": [
+            29.7,
+            0.0,
+            0.0,
+            0.0,
+            0.0004
+        ],
+        "export_applications_rwa": [
+            161,
+            111,
+            61,
+            93,
+            89
+        ],
+        "export_applications_rwa_value": [
+            137.0,
+            1279.6,
+            10.1,
+            19.7,
+            43.9
+        ],
+        "report_year": 2018
+    }
+}

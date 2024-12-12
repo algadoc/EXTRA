@@ -1,0 +1,85 @@
+{
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "string"
+    },
+    "report_year": {
+      "type": "number"
+    },
+    "regulatory_authority_years": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_department_of_state_values": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_other_usg_agencies_values": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_department_of_commerce_values": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_bis_license": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_bis_license_exception": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_nlr_reporting_eccn": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_nlr_reporting_ear99": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_nlr_not_reporting_eccn": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "regulatory_authority_600_series": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    }
+  },
+  "required": [
+    "country",
+    "report_year",
+    "regulatory_authority_years",
+    "regulatory_authority_department_of_state_values",
+    "regulatory_authority_other_usg_agencies_values",
+    "regulatory_authority_department_of_commerce_values",
+    "regulatory_authority_bis_license",
+    "regulatory_authority_bis_license_exception",
+    "regulatory_authority_nlr_reporting_eccn",
+    "regulatory_authority_nlr_reporting_ear99",
+    "regulatory_authority_nlr_not_reporting_eccn",
+    "regulatory_authority_600_series"
+  ]
+}

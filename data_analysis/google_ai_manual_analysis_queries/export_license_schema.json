@@ -1,0 +1,92 @@
+{
+    "type": "object",
+    "properties": {
+      "country": {
+        "type": "string"
+      },
+      "report_year": {
+        "type": "number"
+      },
+      "export_applications_available_years": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_approved": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_approved_value": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_rwa": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_rwa_value": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_denied": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_denied_value": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_average_processing_time": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_deeemed_export_license_approved": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_deeemed_export_license_rwa": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_applications_deeemed_export_license_denied": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      }
+    },
+    "required": [
+      "country",
+      "report_year",
+      "export_applications_available_years",
+      "export_applications_approved",
+      "export_applications_approved_value",
+      "export_applications_rwa",
+      "export_applications_rwa_value",
+      "export_applications_denied",
+      "export_applications_denied_value",
+      "export_applications_average_processing_time",
+      "export_applications_deeemed_export_license_approved",
+      "export_applications_deeemed_export_license_rwa",
+      "export_applications_deeemed_export_license_denied"
+    ]
+  }

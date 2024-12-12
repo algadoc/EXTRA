@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+      "country": {
+        "type": "string"
+      },
+      "report_year": {
+        "type": "number"
+      },
+      "reasons_for_control": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "country",
+      "report_year",
+      "reasons_for_control"
+    ]
+  }

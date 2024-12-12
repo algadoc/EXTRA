@@ -1,0 +1,380 @@
+{
+    "country": "Japan",
+    "report_year": 2018,
+    "file_path": "c:\\Users\\alfon\\git\\export_control_analysis\\trade_analysis_pdfs\\2440-2017-statistical-analysis-of-us-trade-with-japan-pdf.pdf",
+    "export_balance": {
+        "country": "Japan",
+        "export_value": [
+            65.2,
+            66.8,
+            62.3,
+            63.2,
+            67.6,
+            74.9
+        ],
+        "import_value": [
+            138.5,
+            134.5,
+            131.4,
+            132,
+            136.4,
+            142.5
+        ],
+        "report_year": 2018,
+        "year": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ]
+    },
+    "commodities": {
+        "commodities_traded_export_percentage": [
+            18.3,
+            12.7,
+            17.4,
+            2.7,
+            0.8,
+            3.1,
+            2.6,
+            17.4,
+            11.1,
+            10.3,
+            0.6,
+            0.8,
+            0.4,
+            1.8
+        ],
+        "commodities_traded_import_percentage": [
+            0.7,
+            0.6,
+            9.8,
+            0.3,
+            0.5,
+            1.0,
+            3.8,
+            35.0,
+            39.0,
+            5.6,
+            0.1,
+            0.6,
+            0.2,
+            2.7
+        ],
+        "commodities_traded_type": [
+            "Agriculture",
+            "Minerals",
+            "Chemicals, Plastics, Leather",
+            "Wood Products",
+            "Textiles and Footwear",
+            "Stone, Glass, & Semiprecious Metals",
+            "Base metals",
+            "Machinery",
+            "Transportation",
+            "Optical, Measuring, Medical or Other Instruments",
+            "Arms & Ammunition",
+            "Miscellaneous Manufactured Items",
+            "Art & Antiques",
+            "Special Items"
+        ],
+        "country": "Japan",
+        "report_year": 2018
+    },
+    "regulatory_authority": {
+        "country": "Japan",
+        "regulatory_authority_600_series": [
+            35.8,
+            32.9,
+            56.3
+        ],
+        "regulatory_authority_bis_license": [
+            920.0,
+            568.1,
+            671.4
+        ],
+        "regulatory_authority_bis_license_exception": [
+            1309.2,
+            1284.7,
+            1269.1
+        ],
+        "regulatory_authority_department_of_commerce_values": [
+            57403.7,
+            62692.2,
+            68828.2
+        ],
+        "regulatory_authority_department_of_state_values": [
+            5761.1,
+            4830.5,
+            5423.2
+        ],
+        "regulatory_authority_nlr_not_reporting_eccn": [
+            22812.0,
+            25309.2,
+            25882.9
+        ],
+        "regulatory_authority_nlr_reporting_ear99": [
+            35.8,
+            32.9,
+            56.3
+        ],
+        "regulatory_authority_nlr_reporting_eccn": [
+            22445.7,
+            25526.6,
+            29965.7
+        ],
+        "regulatory_authority_other_usg_agencies_values": [
+            61.3,
+            82.4,
+            715.4
+        ],
+        "regulatory_authority_years": [
+            2016,
+            2017,
+            2018
+        ],
+        "report_year": 2018
+    },
+    "country_chart": {
+        "country": "Japan",
+        "reasons_for_control": [
+            "CB:1",
+            "CB:3",
+            "NP:1",
+            "NP:2",
+            "NS:1",
+            "NS:2",
+            "MT:1",
+            "RS:1",
+            "RS:2",
+            "FC:1",
+            "CC:1",
+            "CC:3",
+            "AT:1",
+            "AT:2"
+        ],
+        "report_year": 2018
+    },
+    "top_eccn_by_value": {
+        "country": "Japan",
+        "report_year": 2018,
+        "top_eccn_value_exceptions_descriptions": [
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Military Aircraft and Related Commodities",
+            "Military Electronics",
+            "Military Gas Turbine Engines and Related Commodities",
+            "Space Launch Vehicles and Spacecraft",
+            "Electronic Components",
+            "Surface Vessels of War and Related Commodities",
+            "Information Security Test, Inspection and Production Equipment",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Cameras"
+        ],
+        "top_eccn_value_exceptions_eccn_codes": [
+            "5A002",
+            "9A610",
+            "3A611",
+            "9A619",
+            "9A004",
+            "3A001",
+            "8A609",
+            "5B002",
+            "EAR99",
+            "6A003"
+        ],
+        "top_eccn_value_licensed_descriptions": [
+            "Military Aircraft and Related Commodities",
+            "Spacecraft and Related Commodities",
+            "Military Gas Turbine Engines and Related Commodities",
+            "Military Electronics",
+            "Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes, ...",
+            "Navigation and Avionics equipment and systems, and parts",
+            "Aero Gas Turbine Engines",
+            "Test, etc. commodities specially designed for mil. fire control, laser, imaging...",
+            "Test, Inspection, and Production Equip. and Related Commodities Specia...",
+            "Test, Inspection, and Production Commodities for Military Electronics"
+        ],
+        "top_eccn_value_licensed_eccn_codes": [
+            "9A610",
+            "9A515",
+            "9A619",
+            "3A611",
+            "9A604",
+            "7A611",
+            "9A001",
+            "7B611",
+            "9B610",
+            "3B611"
+        ],
+        "top_eccn_value_nlr_with_eccn_descriptions": [
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101",
+            "Other Mfg/Test Equip. Not Controlled By 3B",
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Mass Market Encryption Commodities not controlled by 5A002",
+            "Equip. for the Inspection/Testing of Components not Controlled by 3B002",
+            "Electronic Devices and Components",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Commercial Charges and Devices Containing Energetic Materials ...",
+            "Specific Processing Equip., N.E.S.",
+            "Electronic Components"
+        ],
+        "top_eccn_value_nlr_with_eccn_eccn_codes": [
+            "9A991",
+            "3B991",
+            "5A991",
+            "5A992",
+            "3B992",
+            "3A991",
+            "7A994",
+            "1C992",
+            "3A999",
+            "3A001"
+        ]
+    },
+    "top_eccn_by_count": {
+        "country": "Japan",
+        "report_year": 2018,
+        "top_eccn_count_exceptions_descriptions": [
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Military Aircraft and Related Commodities",
+            "Military Gas Turbine Engines and Related Commodities",
+            "Military Electronics",
+            "Software as follows (see List of Items Controlled)",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101",
+            "No ECCN is required for License Exceptions TMP*",
+            "Cameras",
+            "Electronic Components"
+        ],
+        "top_eccn_count_exceptions_eccn_codes": [
+            "5A002",
+            "9A610",
+            "9A619",
+            "3A611",
+            "5D002",
+            "EAR99",
+            "9A991",
+            "No ECCN",
+            "6A003",
+            "3A001"
+        ],
+        "top_eccn_count_licensed_descriptions": [
+            "Military Aircraft and Related Commodities",
+            "Military Gas Turbine Engines and Related Commodities",
+            "Military Electronics",
+            "Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes, ...",
+            "Test, Inspection, and Production Equip. and Related Commodities Specia...",
+            "Spacecraft and Related Commodities",
+            "Electronic Components",
+            "Navigation and Avionics equipment and systems, and parts",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Instrumentation, Navigation Equip./Systems Not"
+        ],
+        "top_eccn_count_licensed_eccn_codes": [
+            "9A610",
+            "9A619",
+            "3A611",
+            "9A604",
+            "9B610",
+            "9A515",
+            "3A001",
+            "7A611",
+            "EAR99",
+            "7A103"
+        ],
+        "top_eccn_count_nlr_with_eccn_descriptions": [
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101",
+            "Other Mfg/Test Equip. Not Controlled By 3B",
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Mass Market Encryption Commodities not controlled by 5A002",
+            "General Purpose Electronic Equip. Note Controlled by 3A002",
+            "Computers Not Controlled By 4A001 or 4A003",
+            "Other Navigation Direction Finding Equip.... Not Controlled under 7A003",
+            "Equip. for the Inspection/Testing of Components not Controlled by 3B002",
+            "Electronic Devices and Components",
+            "Specific Processing Equip., N.E.S"
+        ],
+        "top_eccn_count_nlr_with_eccn_eccn_codes": [
+            "9A991",
+            "3B991",
+            "5A991",
+            "5A992",
+            "3A992",
+            "4A994",
+            "7A994",
+            "3B992",
+            "3A991",
+            "2B999"
+        ]
+    },
+    "export_license": {
+        "country": "Japan",
+        "export_applications_approved": [
+            1194,
+            2041,
+            1929,
+            1852,
+            1688
+        ],
+        "export_applications_approved_value": [
+            7692.5,
+            9579.7,
+            17652.0,
+            9392.7,
+            4747.7
+        ],
+        "export_applications_available_years": [
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "export_applications_average_processing_time": [
+            12,
+            15,
+            16,
+            11,
+            11
+        ],
+        "export_applications_deeemed_export_license_approved": [
+            16
+        ],
+        "export_applications_deeemed_export_license_denied": [
+            0
+        ],
+        "export_applications_deeemed_export_license_rwa": [
+            0
+        ],
+        "export_applications_denied": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "export_applications_denied_value": [
+            0.005,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "export_applications_rwa": [
+            299,
+            288,
+            240,
+            235,
+            215
+        ],
+        "export_applications_rwa_value": [
+            744.0,
+            601.8,
+            1811.0,
+            141.5,
+            244.7
+        ],
+        "report_year": 2018
+    }
+}

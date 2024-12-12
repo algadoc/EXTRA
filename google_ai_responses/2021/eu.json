@@ -1,0 +1,337 @@
+{
+    "country": "EU",
+    "report_year": 2021,
+    "file_path": "c:\\Users\\alfon\\git\\export_control_analysis\\trade_analysis_pdfs\\3015-2021-statistical-analysis-of-u-s-trade-with-european-union-countries.pdf",
+    "export_balance": {
+        "country": "European Union",
+        "export_value": [
+            271.6,
+            231.2,
+            251.986,
+            267.421,
+            231.223
+        ],
+        "import_value": [
+            491.3,
+            415.5,
+            426.154,
+            451.81,
+            415.473
+        ],
+        "report_year": 2021,
+        "year": [
+            2021,
+            2020,
+            2018,
+            2019,
+            2020
+        ]
+    },
+    "commodities": {
+        "commodities_traded_export_percentage": [
+            25.4,
+            18.5,
+            15.2
+        ],
+        "commodities_traded_import_percentage": [
+            31.5,
+            20.4,
+            11.3
+        ],
+        "commodities_traded_type": [
+            "Chemicals, Plastics, Rubber, and Leather products",
+            "Machinery and Mechanical Appliances",
+            "Transportation Equipment"
+        ],
+        "country": "European Union",
+        "report_year": 2021
+    },
+    "regulatory_authority": {
+        "country": "European Union",
+        "regulatory_authority_600_series": [
+            53.4,
+            51.8,
+            53.6
+        ],
+        "regulatory_authority_bis_license": [
+            858.9,
+            857.3,
+            1141.1
+        ],
+        "regulatory_authority_bis_license_exception": [
+            3861.9,
+            3898.4,
+            3616.7
+        ],
+        "regulatory_authority_department_of_commerce_values": [
+            260330.9,
+            224893,
+            264449.2
+        ],
+        "regulatory_authority_department_of_state_values": [
+            6150.7,
+            5458.8,
+            5937.3
+        ],
+        "regulatory_authority_nlr_not_reporting_eccn": [
+            0,
+            3.6,
+            6.9
+        ],
+        "regulatory_authority_nlr_reporting_ear99": [],
+        "regulatory_authority_nlr_reporting_eccn": [
+            46060.4,
+            34315.5,
+            37551.2
+        ],
+        "regulatory_authority_other_usg_agencies_values": [
+            939.2,
+            871.3,
+            1227.4
+        ],
+        "regulatory_authority_years": [
+            2019,
+            2020,
+            2021
+        ],
+        "report_year": 2021
+    },
+    "country_chart": {
+        "country": "European Union",
+        "reasons_for_control": [
+            "AU 001",
+            "CB 001",
+            "CM 001",
+            "DP 001",
+            "GS 001",
+            "MT 001",
+            "NP 001",
+            "PS 001",
+            "RS 001",
+            "SR 001",
+            "WV 001"
+        ],
+        "report_year": 2021
+    },
+    "top_eccn_by_value": {
+        "country": "European Union",
+        "report_year": 2021,
+        "top_eccn_value_exceptions_descriptions": [
+            "Information security systems, equipment and components",
+            "Military Aircraft and Related Commodities, Other Than Those Enumerated",
+            "Information Security test, inspection and production equipment",
+            "Military gas turbine engines and related commodities",
+            "Military electronics",
+            "Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A610",
+            "Spacecraft and related commodities",
+            "Cameras, Systems or Equipment, and Components Therefor",
+            "Items subject to the EAR that are not elsewhere specified in this CCL",
+            "Equipment not controlled by 5A002"
+        ],
+        "top_eccn_value_exceptions_eccn_codes": [
+            "5A002",
+            "9A610",
+            "5B002",
+            "9A619",
+            "3A611",
+            "9A991",
+            "9A515",
+            "6A003",
+            "EAR99",
+            "5A992"
+        ],
+        "top_eccn_value_licensed_descriptions": [
+            "Military Aircraft and Related Commodities, Other Than Those Enumerated",
+            "Military gas turbine engines and related commodities",
+            "Human and animal pathogens and toxins",
+            "Instrumentation, navigation equipment and systems",
+            "Equipment for the manufacturing of semiconductor devices or materials",
+            "Firearms",
+            "Military electronics",
+            "Ammunition",
+            "Electronic items",
+            "Test, inspection, and production equipment"
+        ],
+        "top_eccn_value_licensed_eccn_codes": [
+            "9A610",
+            "9A619",
+            "1C351",
+            "7A103",
+            "3B001",
+            "0A501",
+            "3A611",
+            "0A505",
+            "3A001",
+            "9B610"
+        ],
+        "top_eccn_value_nlr_with_eccn_descriptions": [
+            "Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A610",
+            "Telecommunication equipment, not controlled by 5A001",
+            "Equipment not controlled by 5A002",
+            "Other navigation direction finding equipment, airborne communication equipment",
+            "Equipment not controlled by 3B001 for the manufacture of electronic products",
+            "Computers, electronic assemblies and related equipment not controlled by 4A001",
+            "Equipment for the manufacturing of semiconductor devices or materials",
+            "Specific Processing Equipment, n.e.s.",
+            "Electronic devices and components not controlled by 3A001",
+            "Vessels, marine systems or equipment, not controlled by 8A001 or 8A002"
+        ],
+        "top_eccn_value_nlr_with_eccn_eccn_codes": [
+            "9A991",
+            "5A991",
+            "5A992",
+            "7A994",
+            "3B991",
+            "4A994",
+            "3B001",
+            "3A999",
+            "3A991",
+            "8A992"
+        ]
+    },
+    "top_eccn_by_count": {
+        "country": "European Union",
+        "report_year": 2021,
+        "top_eccn_count_exceptions_descriptions": [
+            "Information security systems, equipment and components",
+            "Military Aircraft and Related Commodities, Other Than Those Enumerated",
+            "Information Security test, inspection and production equipment",
+            "Items subject to the EAR that are not elsewhere specified in this CCL",
+            "Military gas turbine engines and related commodities",
+            "Military electronics",
+            "Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A610",
+            "Cameras, Systems or Equipment, and Components Therefor",
+            "Firearms",
+            "Optical sighting devices for firearms"
+        ],
+        "top_eccn_count_exceptions_eccn_codes": [
+            "5A002",
+            "9A610",
+            "5B002",
+            "EAR99",
+            "9A619",
+            "3A611",
+            "9A991",
+            "6A003",
+            "0A501",
+            "0A504"
+        ],
+        "top_eccn_count_licensed_descriptions": [
+            "Military Aircraft and Related Commodities, Other Than Those Enumerated",
+            "Firearms",
+            "Military gas turbine engines and related commodities",
+            "Instrumentation, navigation equipment and systems",
+            "Military electronics",
+            "Ammunition",
+            "Ground vehicles and related commodities",
+            "Electronic items",
+            "Test, inspection, and production equipment",
+            "Optical sighting devices for firearms"
+        ],
+        "top_eccn_count_licensed_eccn_codes": [
+            "9A610",
+            "0A501",
+            "9A619",
+            "7A103",
+            "3A611",
+            "0A505",
+            "0A606",
+            "3A001",
+            "9B610",
+            "0A504"
+        ],
+        "top_eccn_count_nlr_with_eccn_descriptions": [
+            "Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A610",
+            "Telecommunication equipment, not controlled by 5A001",
+            "Equipment not controlled by 5A002",
+            "Other navigation direction finding equipment, airborne communication equipment",
+            "Equipment not controlled by 3B001 for the manufacture of electronic products",
+            "Computers, electronic assemblies and related equipment not controlled by 4A001",
+            "Equipment for the manufacturing of semiconductor devices or materials",
+            "Specific Processing Equipment, n.e.s.",
+            "Electronic devices and components not controlled by 3A001",
+            "Vessels, marine systems or equipment, not controlled by 8A001 or 8A002"
+        ],
+        "top_eccn_count_nlr_with_eccn_eccn_codes": [
+            "9A991",
+            "5A991",
+            "5A992",
+            "7A994",
+            "3B991",
+            "4A994",
+            "3B001",
+            "3A999",
+            "3A991",
+            "8A992"
+        ]
+    },
+    "export_license": {
+        "country": "European Union",
+        "export_applications_approved": [
+            5157,
+            4956,
+            4910,
+            6010,
+            6314
+        ],
+        "export_applications_approved_value": [
+            10400,
+            13100,
+            14300,
+            14400,
+            12500
+        ],
+        "export_applications_available_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+        ],
+        "export_applications_average_processing_time": [
+            19,
+            20,
+            24,
+            25,
+            36
+        ],
+        "export_applications_deeemed_export_license_approved": [
+            71
+        ],
+        "export_applications_deeemed_export_license_denied": [
+            0
+        ],
+        "export_applications_deeemed_export_license_rwa": [
+            14
+        ],
+        "export_applications_denied": [
+            10,
+            8,
+            14,
+            11,
+            20
+        ],
+        "export_applications_denied_value": [
+            0.01,
+            0.003,
+            0.003,
+            0.002,
+            0.1
+        ],
+        "export_applications_rwa": [
+            787,
+            669,
+            619,
+            692,
+            576
+        ],
+        "export_applications_rwa_value": [
+            16.6,
+            0.9,
+            1.2,
+            1.5,
+            0.5
+        ],
+        "report_year": 2021
+    }
+}

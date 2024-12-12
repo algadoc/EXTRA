@@ -1,0 +1,1 @@
+Extract information regarding the number and value of requested export licenses from page {export_licenses} from the {country} report. Report the values for all available years and the dollar amounts in millions of dollars. The deemed export application is only available for the report year.

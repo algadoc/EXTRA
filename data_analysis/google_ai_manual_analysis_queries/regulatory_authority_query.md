@@ -1,0 +1,1 @@
+Extract the value of exports in millions of dollars for each regulatory authority category for all available years on page {regulatory_authority_page} from the {country} report.

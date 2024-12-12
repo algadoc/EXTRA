@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "properties": {
+      "year": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "export_value": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "import_value": {
+        "type": "array",
+        "items": {
+          "type": "number"
+        }
+      },
+      "country": {
+        "type": "string"
+      },
+      "report_year": {
+        "type": "number"
+      }
+    },
+    "required": [
+      "year",
+      "export_value",
+      "import_value",
+      "country",
+      "report_year"
+    ]
+  }

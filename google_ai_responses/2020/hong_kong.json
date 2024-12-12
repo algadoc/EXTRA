@@ -1,0 +1,382 @@
+{
+    "country": "Hong Kong",
+    "report_year": 2020,
+    "file_path": "c:\\Users\\alfon\\git\\export_control_analysis\\trade_analysis_pdfs\\2742-2020-statistical-analysis-of-u-s-trade-with-hong-kong.pdf",
+    "export_balance": {
+        "country": "Hong Kong",
+        "export_value": [
+            30.8,
+            37.3,
+            39.9,
+            37.3,
+            30.8,
+            24.0
+        ],
+        "import_value": [
+            6.8,
+            7.4,
+            7.4,
+            6.3,
+            4.7,
+            7.9
+        ],
+        "report_year": 2020,
+        "year": [
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ]
+    },
+    "commodities": {
+        "commodities_traded_export_percentage": [
+            9.2,
+            0.8,
+            7.7,
+            0.6,
+            1.0,
+            12.3,
+            1.7,
+            45.8,
+            7.2,
+            6.9,
+            0.0,
+            0.7,
+            4.4,
+            1.7
+        ],
+        "commodities_traded_import_percentage": [
+            1.7,
+            0.0,
+            1.5,
+            0.7,
+            2.5,
+            68.7,
+            0.6,
+            5.6,
+            0.2,
+            0.9,
+            0.0,
+            1.1,
+            0.3,
+            16.1
+        ],
+        "commodities_traded_type": [
+            "Agriculture",
+            "Minerals",
+            "Chemicals, Plastics, Leather Products",
+            "Wood Products",
+            "Textiles and Footwear",
+            "Stone, Glass, & Semiprecious Metals",
+            "Base metals",
+            "Machinery & Mechanical Appliances",
+            "Transportation Equipment",
+            "Optical, Measuring, Medical or Other Instruments",
+            "Arms & Ammunition",
+            "Miscellaneous Manufactured Items",
+            "Art & Antiques",
+            "Special Items"
+        ],
+        "country": "Hong Kong",
+        "report_year": 2020
+    },
+    "regulatory_authority": {
+        "country": "Hong Kong",
+        "regulatory_authority_600_series": [
+            0.0,
+            0.0,
+            0.2
+        ],
+        "regulatory_authority_bis_license": [
+            9.4,
+            10.0,
+            52.4
+        ],
+        "regulatory_authority_bis_license_exception": [
+            5525.2,
+            4900.1,
+            4551.1
+        ],
+        "regulatory_authority_department_of_commerce_values": [
+            31327.4,
+            25421.8,
+            19067.6
+        ],
+        "regulatory_authority_department_of_state_values": [
+            4.3,
+            3.9,
+            0.7
+        ],
+        "regulatory_authority_nlr_not_reporting_eccn": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "regulatory_authority_nlr_reporting_ear99": [
+            0.01,
+            0.01,
+            0.001
+        ],
+        "regulatory_authority_nlr_reporting_eccn": [
+            37294.8,
+            30772.3,
+            23949.1
+        ],
+        "regulatory_authority_other_usg_agencies_values": [
+            11.7,
+            6.6,
+            36.7
+        ],
+        "regulatory_authority_years": [
+            2018,
+            2019,
+            2020
+        ],
+        "report_year": 2020
+    },
+    "country_chart": {
+        "country": "Hong Kong",
+        "reasons_for_control": [
+            "CB:1",
+            "CB:2",
+            "CB:3",
+            "NP:1",
+            "NP:2",
+            "NS:1",
+            "NS:2",
+            "MT:1",
+            "RS:1",
+            "RS:2",
+            "FC:1",
+            "CC:1",
+            "CC:2",
+            "CC:3",
+            "AT:1",
+            "AT:2"
+        ],
+        "report_year": 2020
+    },
+    "top_eccn_by_value": {
+        "country": "Hong Kong",
+        "report_year": 2020,
+        "top_eccn_value_exceptions_descriptions": [
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Electronic Components",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1",
+            "\"Digital Computers,\" \"Electronic assemblies\" and Related Equip. theref",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "\"Information Security\u201d test, inspection and \"production\" equipment",
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "No ECCN is required for License Exceptions TMP*",
+            "\"Software\" as follows (see List of Items Controlled)",
+            "Instrumentation, Navigation Equip./Systems Not"
+        ],
+        "top_eccn_value_exceptions_eccn_codes": [
+            "5A002",
+            "3A001",
+            "9A991",
+            "4A003",
+            "EAR99",
+            "5B002",
+            "5A991",
+            "No ECCN",
+            "5D002",
+            "7A103"
+        ],
+        "top_eccn_value_licensed_descriptions": [
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Electronic Components",
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Other Navigation Direction Finding Equip. Not Controlled under 7A003",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Telecommunications Test Equip.",
+            "Instrumentation, Navigation Equip./Systems Not",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1",
+            "Equipment not controlled by 5A002 (see List of Items Controlled).",
+            "Mass Spectrometers"
+        ],
+        "top_eccn_value_licensed_eccn_codes": [
+            "5A991",
+            "3A001",
+            "5A002",
+            "7A994",
+            "EAR99",
+            "5B991",
+            "7A103",
+            "9A991",
+            "5A992",
+            "3A233"
+        ],
+        "top_eccn_value_nlr_with_eccn_descriptions": [
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1",
+            "Equipment not controlled by 5A002 (see List of Items Controlled).",
+            "Electronic Devices and Components",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Computers Not Controlled By 4A001 or 4A003",
+            "General Purpose Electronic Equip. Note Controlled by 3A002",
+            "Specific Processing Equip., N.E.S.",
+            "Telecommunications Test Equip.",
+            "Marine Or Terrestrial Acoustic Equip., N.E.S., Capable of Detecting Or"
+        ],
+        "top_eccn_value_nlr_with_eccn_eccn_codes": [
+            "5A991",
+            "9A991",
+            "5A992",
+            "3A991",
+            "7A994",
+            "4A994",
+            "3A992",
+            "3B992",
+            "3A999",
+            "8A992"
+        ]
+    },
+    "top_eccn_by_count": {
+        "country": "Hong Kong",
+        "report_year": 2020,
+        "top_eccn_count_exceptions_descriptions": [
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "\"Software\" as follows (see List of Items Controlled)",
+            "Electronic Components",
+            "No ECCN is required for License Exceptions TMP*",
+            "\"Information Security\" test, inspection and \"production\" equipment",
+            "Information Security\" \"software\" not controlled by 5D002 as follo",
+            "Instrumentation, Navigation Equip./Systems Not",
+            "Telecommunication Equip. Not Controlled by 5A001"
+        ],
+        "top_eccn_count_exceptions_eccn_codes": [
+            "5A002",
+            "9A991",
+            "EAR99",
+            "5D002",
+            "3A001",
+            "No ECCN",
+            "5B002",
+            "5D992",
+            "7A103",
+            "5A991"
+        ],
+        "top_eccn_count_licensed_descriptions": [
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Systems/Equip./Integrated Circuits for Info Sec",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1",
+            "Electronic Components",
+            "Items subject to the EAR that are not elsewhere controlled",
+            "Spacecraft and Related Commodities",
+            "Zirconium, with a Hafnium Content",
+            "Human and Animal Pathogens and toxins",
+            "Equipment not controlled by 5A002 (see List of Items Controlled)."
+        ],
+        "top_eccn_count_licensed_eccn_codes": [
+            "7A994",
+            "5A991",
+            "5A002",
+            "9A991",
+            "3A001",
+            "EAR99",
+            "9A515",
+            "1C234",
+            "1C351",
+            "5A992"
+        ],
+        "top_eccn_count_nlr_with_eccn_descriptions": [
+            "Telecommunication Equip. Not Controlled by 5A001",
+            "Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1",
+            "Equipment not controlled by 5A002 (see List of Items Controlled).",
+            "Electronic Devices and Components",
+            "Other Navigation Direction Finding Equip. ... Not Controlled under 7A003",
+            "Computers Not Controlled By 4A001 or 4A003",
+            "General Purpose Electronic Equip. Note Controlled by 3A002",
+            "Equip. for the Inspection/Testing of Components not Controlled buy 3B0",
+            "Specific Processing Equip., N.E.S.",
+            "Vessels, Marine Systems or Equip. not Controlled by 8A001 or 8A002..."
+        ],
+        "top_eccn_count_nlr_with_eccn_eccn_codes": [
+            "5A991",
+            "9A991",
+            "5A992",
+            "3A991",
+            "7A994",
+            "4A994",
+            "3A992",
+            "3B992",
+            "3A999",
+            "8A992"
+        ]
+    },
+    "export_license": {
+        "country": "Hong Kong",
+        "export_applications_approved": [
+            194,
+            177,
+            164,
+            163,
+            160
+        ],
+        "export_applications_approved_value": [
+            326.0,
+            369.3,
+            203.1,
+            551.0,
+            6009.4
+        ],
+        "export_applications_available_years": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "export_applications_average_processing_time": [
+            27,
+            22,
+            26,
+            34,
+            41
+        ],
+        "export_applications_deeemed_export_license_approved": [
+            1
+        ],
+        "export_applications_deeemed_export_license_denied": [
+            0
+        ],
+        "export_applications_deeemed_export_license_rwa": [
+            1
+        ],
+        "export_applications_denied": [
+            5,
+            4,
+            8,
+            31,
+            50
+        ],
+        "export_applications_denied_value": [
+            22.2,
+            0.1,
+            0.2,
+            7.5,
+            187.8
+        ],
+        "export_applications_rwa": [
+            58,
+            56,
+            55,
+            56,
+            68
+        ],
+        "export_applications_rwa_value": [
+            26.6,
+            9.4,
+            82.7,
+            61.6,
+            7855.5
+        ],
+        "report_year": 2020
+    }
+}

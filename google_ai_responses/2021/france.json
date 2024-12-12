@@ -1,0 +1,345 @@
+{
+    "country": "France",
+    "report_year": 2021,
+    "file_path": "c:\\Users\\alfon\\git\\export_control_analysis\\trade_analysis_pdfs\\3007-2021-statistical-analysis-of-u-s-trade-with-france.pdf",
+    "export_balance": {
+        "country": "France",
+        "export_value": [
+            31.148,
+            33.595,
+            36.606,
+            37.679,
+            27.303,
+            29.99
+        ],
+        "import_value": [
+            46.709,
+            48.91,
+            52.494,
+            57.6,
+            42.938,
+            50.334
+        ],
+        "report_year": 2021,
+        "year": [
+            2016,
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+        ]
+    },
+    "commodities": {
+        "commodities_traded_export_percentage": [
+            25.2,
+            19.4,
+            17.1
+        ],
+        "commodities_traded_import_percentage": [
+            22.9,
+            18.4,
+            16.6
+        ],
+        "commodities_traded_type": [
+            "Transportation Equipment",
+            "Machinery and Mechanical Appliances",
+            "Chemicals, Plastics, Leather products"
+        ],
+        "country": "France",
+        "report_year": 2021
+    },
+    "regulatory_authority": {
+        "country": "France",
+        "regulatory_authority_600_series": [
+            11.2,
+            9.8,
+            12.6
+        ],
+        "regulatory_authority_bis_license": [
+            147.1,
+            142.3,
+            150.7
+        ],
+        "regulatory_authority_bis_license_exception": [
+            402.8,
+            823.7,
+            321.0
+        ],
+        "regulatory_authority_department_of_commerce_values": [
+            37100.0,
+            26859.3,
+            29280.9
+        ],
+        "regulatory_authority_department_of_state_values": [
+            452.0,
+            275.9,
+            434.0
+        ],
+        "regulatory_authority_nlr_not_reporting_eccn": [
+            20228.7,
+            16458.4,
+            19714.0
+        ],
+        "regulatory_authority_nlr_reporting_ear99": [],
+        "regulatory_authority_nlr_reporting_eccn": [
+            16310.2,
+            9424.8,
+            9081.8
+        ],
+        "regulatory_authority_other_usg_agencies_values": [
+            126.7,
+            167.9,
+            275.0
+        ],
+        "regulatory_authority_years": [
+            2019,
+            2020,
+            2021
+        ],
+        "report_year": 2021
+    },
+    "country_chart": {
+        "country": "France",
+        "reasons_for_control": [
+            "CB:1",
+            "CB:2",
+            "CB:3",
+            "NP:1",
+            "NP:2",
+            "NS:1",
+            "NS:2",
+            "MT:1",
+            "RS:1",
+            "RS:2",
+            "FC:1",
+            "CC:1",
+            "CC:2",
+            "CC:3",
+            "AT:1",
+            "AT:2"
+        ],
+        "report_year": 2021
+    },
+    "top_eccn_by_value": {
+        "country": "France",
+        "report_year": 2021,
+        "top_eccn_value_exceptions_descriptions": [
+            "Information security systems, equipment and components",
+            "\"Spacecraft\" and related commodities",
+            "Military electronics",
+            "Military Aircraft and Related Commodities",
+            "\"Aircraft\", n.e.s., and gas turbine engines not controlled by 9A001 or",
+            "Electronic items",
+            "Items subject to the EAR that are not elsewhere specified in this CCL",
+            "\"Software\"",
+            "Instrumentation, navigation equipment and systems",
+            "Cameras, Systems or Equipment, and Components"
+        ],
+        "top_eccn_value_exceptions_eccn_codes": [
+            "5A002",
+            "9A515",
+            "3A611",
+            "9A610",
+            "9A991",
+            "3A001",
+            "EAR99",
+            "5D002",
+            "7A103",
+            "6A003"
+        ],
+        "top_eccn_value_licensed_descriptions": [
+            "Instrumentation, navigation equipment and systems",
+            "Military Aircraft and Related Commodities",
+            "\"Spacecraft\" and related commodities",
+            "Firearms",
+            "Graphite and Ceramic Materials",
+            "Military electronics",
+            "Military gas turbine engines and related commodities",
+            "Ammunition",
+            "Other navigation direction finding equipment",
+            "Discharge type arms"
+        ],
+        "top_eccn_value_licensed_eccn_codes": [
+            "7A103",
+            "9A610",
+            "9A515",
+            "0A501",
+            "1C107",
+            "3A611",
+            "9A619",
+            "0A505",
+            "7A994",
+            "0A503"
+        ],
+        "top_eccn_value_nlr_with_eccn_descriptions": [
+            "\"Aircraft\", n.e.s., and gas turbine engines not controlled by 9A001 or",
+            "Other navigation direction finding equipment",
+            "Equipment not controlled by 5A002",
+            "Telecommunication equipment",
+            "Equipment not controlled by 3B001",
+            "Computers",
+            "Electronic devices",
+            "Specific Processing Equipment",
+            "Radar systems",
+            "General purpose electronic equipment"
+        ],
+        "top_eccn_value_nlr_with_eccn_eccn_codes": [
+            "9A991",
+            "7A994",
+            "5A992",
+            "5A991",
+            "3B991",
+            "4A994",
+            "3A991",
+            "3A999",
+            "6A998",
+            "3A992"
+        ]
+    },
+    "top_eccn_by_count": {
+        "country": "France",
+        "report_year": 2021,
+        "top_eccn_count_exceptions_descriptions": [
+            "Information security systems, equipment and components",
+            "Military Aircraft and Related Commodities",
+            "Items subject to the EAR that are not elsewhere specified in this CCL",
+            "Firearms",
+            "\"Aircraft\", n.e.s., and gas turbine engines not controlled by 9A001 or",
+            "Military electronics",
+            "\"Spacecraft\" and related commodities",
+            "\"Software\"",
+            "Instrumentation, navigation equipment and systems",
+            "Electronic items"
+        ],
+        "top_eccn_count_exceptions_eccn_codes": [
+            "5A002",
+            "9A610",
+            "EAR99",
+            "0A501",
+            "9A991",
+            "3A611",
+            "9A515",
+            "5D002",
+            "7A103",
+            "3A001"
+        ],
+        "top_eccn_count_licensed_descriptions": [
+            "Military Aircraft and Related Commodities",
+            "Firearms",
+            "Instrumentation, navigation equipment and systems",
+            "Military gas turbine engines and related commodities",
+            "Military electronics",
+            "Ammunition",
+            "Human and animal pathogens and toxins",
+            "Graphite and Ceramic Materials",
+            "Other navigation direction finding equipment",
+            "Discharge type arms"
+        ],
+        "top_eccn_count_licensed_eccn_codes": [
+            "9A610",
+            "0A501",
+            "7A103",
+            "9A619",
+            "3A611",
+            "0A505",
+            "1C351",
+            "1C107",
+            "7A994",
+            "0A503"
+        ],
+        "top_eccn_count_nlr_with_eccn_descriptions": [
+            "\"Aircraft\", n.e.s., and gas turbine engines not controlled by 9A001 or",
+            "Other navigation direction finding equipment",
+            "Equipment not controlled by 5A002",
+            "Telecommunication equipment",
+            "Equipment not controlled by 3B001",
+            "Electronic devices",
+            "Specific Processing Equipment",
+            "Radar systems",
+            "Computers",
+            "General purpose electronic equipment"
+        ],
+        "top_eccn_count_nlr_with_eccn_eccn_codes": [
+            "9A991",
+            "7A994",
+            "5A992",
+            "5A991",
+            "3B991",
+            "3A991",
+            "3A999",
+            "6A998",
+            "4A994",
+            "3A992"
+        ]
+    },
+    "export_license": {
+        "country": "France",
+        "export_applications_approved": [
+            751,
+            714,
+            657,
+            746,
+            817
+        ],
+        "export_applications_approved_value": [
+            1467.8,
+            1201.7,
+            4693.6,
+            1420.1,
+            1799.6
+        ],
+        "export_applications_available_years": [
+            2017,
+            2018,
+            2019,
+            2020,
+            2021
+        ],
+        "export_applications_average_processing_time": [
+            21,
+            19,
+            28,
+            27,
+            25
+        ],
+        "export_applications_deeemed_export_license_approved": [
+            22
+        ],
+        "export_applications_deeemed_export_license_denied": [
+            0
+        ],
+        "export_applications_deeemed_export_license_rwa": [
+            2
+        ],
+        "export_applications_denied": [
+            1,
+            2,
+            2,
+            1,
+            0
+        ],
+        "export_applications_denied_value": [
+            0.1,
+            0.002,
+            0.2,
+            0.0,
+            0.0
+        ],
+        "export_applications_rwa": [
+            138,
+            118,
+            99,
+            91,
+            96
+        ],
+        "export_applications_rwa_value": [
+            106.6,
+            397.8,
+            258.3,
+            26.6,
+            123.7
+        ],
+        "report_year": 2021
+    }
+}

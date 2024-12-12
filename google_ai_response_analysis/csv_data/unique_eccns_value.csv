@@ -1,0 +1,740 @@
+,ECCN Code,Description
+0,9A619,Military Gas Turbine Engines and Related Commodities
+1,9A610,Military Aircraft and Related Commodities
+2,9A001,Aero Gas Turbine Engines
+3,7A103,"Instrumentation, Navigation Equip./Systems Not"
+4,1C350,"Chemicals, Precursors for toxic Chemical Agents"
+5,5A002,Systems/Equip./Integrated Circuits for Info Sec
+6,2B352,Equip. for Handling Biological Materials
+7,9A003,"Assemblies/Components Incorporating Technologies Controlled by 9E003.a, ..."
+8,6A003,Cameras
+9,7A611,"Navigation and Avionics equipment and systems, and ""parts"""
+11,9A991,Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101
+14,No ECCN,No ECCN is required for License Exceptions TMP*
+15,5D002,"""Software"" as follows (see List of Items Controlled)"
+16,7A994,Other Navigation Direction Finding Equip. ... Not Controlled under 7A003
+18,6A001,"Acoustic Systems, Equipment and ""Components"""
+19,5B002,"""Information Security"" Test, Inspection and ""Production"" Equipment"
+20,EAR99,Items subject to the EAR that are not elsewhere controlled
+22,5A992,Equipment not controlled by 5A002
+23,5A991,Telecommunication Equip. Not Controlled by 5A001
+25,2B999,"Specific Processing Equip., N.E.S."
+26,4A994,Computers Not Controlled By 4A001 or 4A003
+27,8A992,"Vessels, Marine Systems or Equip. not Controlled by 8A001 or 8A002..."
+28,3A999,"Specific Processing Equip., N.E.S."
+29,1C992,Commercial Charges and Devices Containing Energetic Materials
+30,0A987,Optical Sighting Devices for Firearms
+31,0A606,Ground Vehicles and Related Commodities
+32,0A984,"Shotguns, Buckshot, Shotgun Shells"
+33,0A986,Shotgun Shells (Except Buckshot Shells) and Parts
+36,7A611,"Navigation and Avionics equipment and systems, and ""parts"","
+37,1C234,"Zirconium, with a Hafnium Content"
+38,3A611,Military Electronics
+39,1C351,Human and Animal Pathogens and toxins
+51,7A994,Other Navigation Direction Finding Equip.... Not Controlled under 7A003
+57,9A003,"Assemblies/Components Incorporating Technologies Controlled by 9E003.a,"
+59,3A233,Mass Spectrometers
+61,6A005,Optical Equip. (Lasers)
+62,2B350,Chemical Manufacturing Facilities and Equip.
+63,2B001,Machine tools/Numerical Control Units
+64,1B001,"Equip. for Production of Fibers, Preforms Or Co"
+66,2B230,Pressure Transducers
+67,3C002,Resist Materials
+70,3A001,Electronic Components
+72,3B001,Epitaxial Equip. for Semiconductors
+78,1C006,Fluids and Lubricating Materials
+80,3B991,Other Mfg/Test Equip. Not Controlled By 3B
+83,3B992,Equip. for the Inspection/Testing of Components not Controlled by 3B002
+85,3A991,Electronic Devices and Components
+86,3A992,General Purpose Electronic Equip. Note Controlled by 3A002
+92,9A515,Spacecraft and Related Commodities
+93,3A101,Electronic Equip./Devices Not Controlled By 3A001
+95,3A101,Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101
+96,9A991,Cameras
+97,6A003,Gyros and Angular Rate Sensors
+98,7A002,"Graphite and Ceramic Materials, Other Than Those Controlled by 1C007"
+108,9B001,"Equip., tooling Or Fixtures, “Specially Designed"
+116,3A999,Electronic Devices and Components
+117,1A995,Protective and Detection Equip.
+118,6A998,"Radar Systems, Equip. and Major “Components,” N.E.S., and “Specially D..."
+121,7A002,"Gyros and Angular Rate Sensors, ..."
+123,9A604,"Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes, ..."
+125,9A515,Optical Sensors
+126,6A002,Spacecraft and Related Commodities
+132,1A613,"Armored and Protective Equip., Constructions, and Components"
+134,9B610,"Test, Inspection, and Production Equip. and Related Commodities Specia..."
+139,5A992,Mass market Encryption Commodities not controlled by 5A002
+146,1C210,"Fibrous/Filamentary Materials Not Controlled By 1C010.a, .b or .e ..."
+151,1A004,"""Software"" as follows (see List of Items Controlled)"
+152,5D002,"Zirconium, with a Hafnium Content"
+153,1C234,Optical Equip. (Lasers)
+154,6A005,"Instrumentation, Navigation Equip./Systems Not"
+155,7A103,Optical Sighting Devices for Firearms
+164,5B991,Telecommunications Test Equip.
+165,3C005,Silicon Carbide Wafers
+171,7A994,Computers Not Controlled By 4A001 or 4A003
+172,4A994,Other Navigation Direction Finding Equip. ... Not Controlled under 7A003
+175,3B999,"Specific Processing Equip., N.E.S"
+182,2B201,Machine tools for Removing Or Cutting Metals
+190,3A002,General Purpose Electronic Equip.
+199,1C999,"Specific Materials, N.E.S., as Follows (See List of Items Controlled)..."
+201,2B991,"Numerical Control Units for Machine tools and ""Numerically Controlled""..."
+205,5B991,Telecommunications Test Equip
+209,0A604,Commodities Related to Military Explosive Devices and Charges
+213,1A607,"Military dissemination ""equipment"" for riot control agents, ..."
+214,1C202,Alloys other than those controlled by 1C002.b.3 or 1C002.b.4 as follows ...
+215,1A984,"Chemical Agents, Including Tear Gas"
+240,7A611,"Navigation and Avionics equipment and systems, and parts"
+242,7B611,"Test, etc. commodities specially designed for mil. fire control, laser, imaging..."
+244,3B611,"Test, Inspection, and Production Commodities for Military Electronics"
+249,9A004,Space Launch Vehicles and Spacecraft
+251,8A609,Surface Vessels of War and Related Commodities
+252,5B002,"Information Security Test, Inspection and Production Equipment"
+258,5A992,Mass Market Encryption Commodities not controlled by 5A002
+262,1C992,Commercial Charges and Devices Containing Energetic Materials ...
+270,7A003,Inertial Navigation Systems (Gimballed/Strapdown)
+271,1C107,"Graphite and Ceramic Materials, Other Than Those Controlled by 1C007"
+272,7A611,"Navigation and Avionics equipment and systems, and ""parts,"""
+294,3A999,"Specific Processing Equip., N.E.S"
+298,9B619,"Test, Inspection, and Production Equip. and Related Commodities Specia..."
+302,9E619,"Technology for Commodities controlled by 9A619, 9B619, 9C619 and 9D619"
+310,7A103,"""Information Security"" Test, Inspection and ""Production"" Equipment"
+313,5B002,"Instrumentation, Navigation Equip./Systems Not"
+314,3A001,Military Gas Turbine Engines and Related Commodities
+326,1C111,Propellants and Constituent Chemicals
+331,9A604,"Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes,"
+344,No ECCN,No ECCN is required for License Exceptions TMP
+362,2A983,Explosives Or Detonator Detection Equip.
+365,5A002,Information Security software related to encryption
+371,1C008,Ground Vehicles and Related Commodities
+372,0A606,Non-Fluorinated Polymeric Substances
+374,5D002,Information Security software related to encryption
+377,3B991,Other Mfg/Test Equip. Not Controlled By 3B001
+389,3C004,"Hydrides of Phosphorus, Arsenic, Or Antimony"
+397,3C001,Hetero-Epitaxial Materials
+401,3C006,"""Substrates"" Specified In 3C005 with At Least one Epitaxial Layer of S..."
+420,1A004,Protective and Detection Equip.
+423,7B611,"Test/Inspec/Produ/Commodities, for Military Fire Control, Laser, Imaging"
+429,0A614,Military Training Equipment
+436,2A291,Equip. related to Nuclear Material Handling and Processing...
+443,1C355,Chemical Weapons Convention (Cwc) Schedule 2 and 3 Chemicals and Famil...
+460,4A003,"“Digital Computers,” “Electronic assemblies"
+463,3A002,General Purpose Electronic Equip
+464,9A991,Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101...
+467,5C991,Preforms of Glass Or of Any Other Material Optimized for the Manufactu...
+470,2B991,Numerical Control Units for Machine tools and “Numerically Controlled”...
+476,3A981,Polygraphs/Fingerprint Analyzers/Cameras/Equip.
+480,1A607,"Military dissemination ""equipment"" for riot control agents"
+485,3A611,Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A101
+486,9A991,No ECCN is required for License Exceptions TMP*
+493,9A991,Military Electronics
+498,2B999,"Specific Processing Equip., Ν.Ε.S."
+501,18999,"Specific Processing Equip., N.E.S., as Follows (See List of Items Cont..."
+513,9A604,"Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes"
+517,N/A,No ECCN is required for license exception on TMP as per EAR 758.1.(g)(2)
+523,5B002,"Information Security Test, Inspection and Production Equip., as follows"
+525,5A992,Equipment not Controlled by 5A002
+539,5D002,Software as follows (see List of Items Controlled)
+550,3A611,Other Navigation Direction Finding Equip. ... Not Controlled under 7A003
+553,5D992,"""Information Security"" ""software"" not controlled by 5D002"
+563,1C990,"Fibrous and Filamentary Materials, Not Controlled By 1C010 Or 1C210,..."
+592,1C608,Energetic Materials and Related Commodities Not Listed Elsewhere In Us...
+601,1C010,Fibrous/Filamentary Materials as follows (see List of Items Controlled)
+602,1A004,Protective and Detection Equip
+610,BLANK,No ECCN is required for License Exceptions TMP*
+611,EAR99,No ECCN Reported
+618,3B992,Equip. for the Inspection/Testing of Components not Controlled buy 3B002
+619,3A991,"Electronic Devices and ""Components"" not controlled by 3A001"
+622,7A994,Other Navigation Direction Finding Equip. ... Not Controlled under 7A003 or 7A103
+627,9A604,"Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes..."
+642,5D002,Information Security
+647,38991,Other Mfg/Test Equip. Not Controlled By 3B
+649,38001,Epitaxial Equip. for Semiconductors
+652,1C990,"Fibrous and Filamentary Materials, Not Controlled By 1C010 Or 1C210, f..."
+656,7A994,Other Navigation Direction Finding Equip. Not Controlled under 7A003
+662,1C210,"Fibrous/Filamentary Materials Not Controlled By 1C010.a, .b or .e"
+673,0A617,"Miscellaneous Equip., Materials, and Related Commodities"
+675,3E102,"""Technology"" for the ""Development"" of ""Software"" Controlled by 3D101"
+677,0A979,"Police Helmets, Shields and Parts"
+682,9B515,"Test, Inspection, and Production Equip. Specially Designed for Spacecr..."
+698,9E515,"Technology Required for the Development, Production, Operation, Instal..."
+699,9D515,"Software Specially Designed for the Development, Production Operation,..."
+739,3B991,"Specific Processing Equip., Ν.Ε.Σ."
+742,2B991,"Numerical Control Units for Machine tools and ""Numerically Controlled"""
+788,9A604,"Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes,..."
+796,3B992,Equip. for the Inspection/Testing of Components not controlled by 3B002
+849,5B001,"Telecommunication Test, Inspection and Production Equip., ""Components"""
+856,1C225,Boron Enriched In the Boron-10 (10B) Isotope to Greater Than Its Natur...
+857,9A990,"Diesel Engines, N.E.S., and Tractors and “Specially Designed"
+858,3A999,"Parts"""
+859,3A992,"Specific Processing Equip., N.E.S."
+860,1A999,General Purpose Electronic Equip. Note Controlled by 3A002
+868,7A002,"Gyros and Angular Rate Sensors,"
+878,1C008,Non-Fluorinated Polymeric Substances
+890,3A999,"Specific Processing Equip., N.E.S. Not Controlled under 7A003"
+900,98610,"Test, Inspection, and Production Equip. and Related Commodities Specia..."
+905,8A001,Submersible Vehicles Or Surface Vessels
+936,08604,"Test, Inspection, and Production ""Equip."" and Related Commodities ""Spe..."
+947,9A990,"Diesel Engines, N.E.S., and Tractors and ""Specially Designed"" ""Parts"""
+948,10992,Commercial Charges and Devices Containing Energetic Materials
+949,10990,"Fibrous and Filamentary Materials, Not Controlled By 10010 Or 10210, f..."
+957,5D002,"""Sortware"" as follows (see List of Items Controlled)"
+968,1A006,Disposal of Improvised Explosive Devices
+976,1A999,"Specific Processing Equip., N.E.S"
+978,2B999,"Specific Processing Equip., Ν.Ε.Σ."
+979,1B999,"Specific Processing Equip., N.E.S., as Follows (See List of Items Cont..."
+987,0A985,Discharge Type Arms and devices to administer electric shock
+993,Blank,Blank No ECCN is required for License Exceptions TMP*
+996,EAR99,EAR99 Items subject to the EAR that are not elsewhere controlled
+1007,1C202,Alloys other than those controlled by 1C002.b.3 or 1C002.b.4 as follows
+1008,9A010,"""Specially Designed"" ""Parts,"" ""Components,"" Systems and Structures, fo..."
+1009,9A990,"Diesel Engines, N.E.S., and Tractors and ""Specially Designed"" ""Parts"" ..."
+1013,2B350,Chemical Manufacturing Facilities and Equip
+1018,1C991,"Vaccines, Immunotoxins and Medical Products"
+1021,1C996,"Hydraulic Fluids Containing Synthetic Hydrocarbon Oils, Not Controlled..."
+1052,3A992,Equip. for the Inspection/Testing of Components not Controlled by 3B002
+1069,Blank,No ECCN is required for License Exceptions TMP*
+1093,1C210,"Fibrous/Filamentary Materials Not Controlled By 1C010.a, .b or .e,"
+1094,0A503,Discharge type arms; non-lethal or less-lethal grenades and projectile
+1097,9A991,Aircraft N.E.S. and Gas Turbine Engines not Controlled by 9A001 or 9A1
+1106,5A992,Equipment not controlled by 5A002 (see List of Items Controlled).
+1108,3B992,Equip. for the Inspection/Testing of Components not Controlled buy 3B
+1114,3A992,General Purpose Electronic Equip. Not Controlled by 3A002
+1128,4A003,"""Digital Computers,"" ""Electronic assemblies"" and Related Equip. theref"
+1130,5B002,"""Information Security” test, inspection and ""production"" equipment"
+1142,3B992,"Specific Processing Equip., N.E.S."
+1143,3A999,Telecommunications Test Equip.
+1144,8A992,"Marine Or Terrestrial Acoustic Equip., N.E.S., Capable of Detecting Or"
+1147,7B611,"Test, inspection, and production commodities ""specially designed"" for"
+1148,9B619,"Test, Inspection, and Production Equip. and Related Commodities Specia"
+1151,9B610,"Test, Inspection, and Production Equip. and Related Commodities Specia"
+1158,5B002,"""Information Security"" test, inspection and ""production"" equipment"
+1168,9B990,"Vibration Test Equip. and ""Specially Designed"" ""Parts"" and ""Components"
+1170,1C999,"Specific Materials, N.E.S., as Follows (See List of Items Controlled)."
+1180,0A504,Optical sighting devices for firearms (including shotguns controlled b
+1184,0A501,Firearms (except 0A502 shotguns) and related commodities as follows (s
+1187,5D002,'Software' as follows (see List of Items Controlled)
+1204,18999,"Specific Processing Equip., N.E.S., as Follows (See List of Items Cont"
+1208,9A604,"Commodities Related to Launch Vehicles, Missiles, Rockets, torpedoes, etc."
+1211,9B610,"Test, Inspection, and Production Equip. and Related Commodities Special to Military Applications"
+1213,7A103,"Instrumentation, Navigation Equip./Systems Not Controlled by 7A003"
+1214,7A611,"Navigation and Avionics equipment and systems, and ""parts,"" ""component"
+1219,9B604,"Test, Inspection, Production Equip. and Related Commodities Designed for Military Applications"
+1222,9D610,"Software for Commodities Controlled by 9A610, 9B610, 9C610"
+1228,5A992,Equipment not controlled by 5A002 (see List of Items Controlled)
+1232,3B992,Equip. for the Inspection/Testing of Components not Controlled buy 3B0
+1234,5D992,"""Information Security"" ""software"" not controlled by 5D002 as follows (see List of Items Controlled)"
+1240,1C111,"Propellants and Constituent Chemicals, for Propellants, Other Than Those"
+1241,7A611,"Navigation and Avionics equipment and systems, and parts, component"
+1251,9B619,"Test, Inspection, and Production Equip. and Related Commodities Special"
+1256,3B992,Equip. for the Inspection/Testing of Components not controlled buy 3B0
+1261,6A995,Lasers as Follows (See List of Items Controlled).
+1264,2A291,Equip. related to Nuclear Material Handling and Processing
+1270,28001,Machine tools/Numerical Control Units
+1273,28201,Machine tools for Removing Or Cutting Metals
+1295,0A501,Firearms (except 0A502 shotguns) and related commodities as follows
+1301,0A505,Ammunition as follows (see List of Items Controlled)
+1306,No ECCN,No ECCN No ECCN is required for License Exceptions TMP*
+1311,0A614,Military Training Equip.
+1331,9B515,"Test, Inspection, and Production Equip. Specially Designed for Spacecr"
+1337,No ECCN,No ECCN No ECCN is required for License Exceptions TMP
+1352,1B231,"Tritium Facilities Or Plants, and Equip. therefor, as Follows (See Lis"
+1367,9E991,Technology for the Dev/Prod/use with Items In 9A991 Or 9B991
+1372,3B002,"""Test Equip."" for Semiconductors Devices"
+1394,0A505,Ammunition
+1399,9B610,"Test, Inspection, and Production Equip. and Related Commodities Special"
+1404,5D002,'Software'
+1414,1C990,"Fibrous and Filamentary Materials, Not Controlled By 1C010 Or 1C210,"
+1418,2A001,Anti-Friction Bearings and Bearing Systems
+1425,0A998,"Oil and Gas Exploration Equip., Software, and Data"
+1426,7A994,Other Navigation Direction Finding Equip.
+1428,8A992,"Vessels, Marine Systems or Equip. not Controlled by 8A001 or 8A002"
+1429,5A001,Telecommunications/Transmission Equip
+1442,N/A,No ECCN is required for License Exceptions TMP
+1444,7A611,"Navigation and Avionics equipment and systems, and ""parts"", ""component"
+1461,0A501,Firearms (except 0A502 shotguns) and related commodities
+1462,0A504,Optical sighting devices for firearms (including shotguns controlled by 0A502)
+1463,2B350,"Chemical manufacturing facilities and equipment, except valves controlled by 2B350.a"
+1464,9A610,"Military Aircraft and Related Commodities, Other Than Those Enumerated"
+1465,3A611,Military electronics
+1466,7A103,"Instrumentation, navigation equipment and systems"
+1467,1C350,Chemicals that may be used as precursors for toxic chemical agents
+1468,9A515,Spacecraft and related commodities
+1469,6A003,"Cameras, Systems or Equipment, and Components Therefor"
+1470,5A002,"Information security systems, equipment and components"
+1471,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A002"
+1473,EAR99,Items subject to the EAR that are not elsewhere specified in this CCL
+1474,5D002,Software
+1475,7A611,"Military fire control, laser, imaging, and guidance equipment"
+1476,3A002,"General purpose electronic assemblies, modules and equipment"
+1481,2B999,"Specific Processing Equipment, n.e.s."
+1482,5A991,"Telecommunication equipment, not controlled by 5A001"
+1484,7A994,"Other navigation direction finding equipment, airborne communication equipment"
+1485,4A994,"Commercial charges and devices containing energetic materials, n.e.s."
+1486,3A999,"Specific Processing Equipment, n.e.s."
+1487,1C992,Protective and detection equipment not specially designed for military use
+1488,8A992,"Computers, electronic assemblies and related equipment not controlled by 4A001 or 4A002"
+1490,3A611,"Military electronics, as follows (see List of Items Controlled)."
+1491,3A231,"Neutron generator systems, including tubes, having both of the characteristics (see List of Items Controlled)."
+1492,5D002,"Software, as follows (see List of Items Controlled)."
+1493,9A619,Military gas turbine engines and related commodities (see List of Items Controlled).
+1494,5A002,"Information security systems, equipment and components, as follows (see List of Items Controlled)."
+1495,1A007,"Equipment and devices, specially designed to initiate charges and detonate (see List of Items Controlled)."
+1496,0A503,Discharge type arms; non-lethal or less-lethal grenades and projectiles (see List of Items Controlled).
+1497,1A004,"Protective and Detection Equipment and Components, Not Specially Designed to Initiate Charges and Detonate (see List of Items Controlled)."
+1498,0A606,"Ground vehicles and related commodities, as follows (see List of Items Controlled)."
+1502,3B611,"Test, inspection, and production commodities for military electronics, as follows (see List of Items Controlled)."
+1503,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A002 (see List of Items Controlled)."
+1504,5A991,"Telecommunication equipment, not controlled by 5A001 (see List of Items Controlled)."
+1506,7E101,"Technology, according to the General Technology Note for the use of items on the Commerce Control List (see List of Items Controlled)."
+1507,6A008,"Radar systems, equipment and assemblies, having any of the following (see List of Items Controlled)."
+1511,7A994,"Other navigation direction finding equipment, airborne communication equipment, not controlled by 5A001 (see List of Items Controlled)."
+1512,4A994,"Computers, electronic assemblies and related equipment not controlled by 4A003 or 4A004 (see List of Items Controlled)."
+1513,2B999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)."
+1514,1C992,"Commercial charges and devices containing energetic materials, n.e.s. (see List of Items Controlled)."
+1515,9A610,"Military Aircraft and Related Commodities, Other Than Those Enumerated (see List of Items Controlled)."
+1516,3A992,General purpose electronic equipment not controlled by 3A002 (see List of Items Controlled).
+1517,8A992,"Vessels, marine systems or equipment, not controlled by 8A001 or 8A002 (see List of Items Controlled)."
+1520,9B610,"Test, inspection, and production equipment and related commodities"
+1521,0A505,Ammunition as follows
+1522,3A611,"Military electronics, as follows"
+1523,9A619,Military gas turbine engines and related commodities
+1524,9B619,"Test, inspection, and production equipment and related commodities"
+1526,1A613,Armored and protective equipment and related commodities
+1527,0A606,Ground vehicles and related commodities
+1528,0A614,Military training equipment
+1534,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or"
+1536,0A604,Commodities related to military explosive devices and charges
+1542,7A994,"Other navigation direction finding equipment, airborne communication e"
+1543,9A990,"Diesel engines, n.e.s., and tractors and specially designed parts"
+1544,8A992,"Vessels, marine systems or equipment, not controlled by 8A001 or 8A002"
+1545,4A994,"Computers, electronic assemblies and related equipment not controlle"
+1547,3A992,General purpose electronic equipment not specially designed for milita
+1549,0A504,Optical sighting devices for firearms (including shotguns controlled by 0A504)
+1550,5A002,"Information security systems, equipment and components, as follows"
+1551,6A003,"Cameras, Systems or Equipment, and Components Therefor, as Follows"
+1552,1A004,"Protective and Detection Equipment and Components, Not Specially Designed for Firearms"
+1553,6A993,"Cameras, not controlled by 6A003 or 6A203, as follows (see List of Items Controlled)"
+1554,1C351,"Human and animal pathogens and toxins, as follows (see List of Items Controlled)"
+1555,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A101"
+1556,3A991,"Electronic devices, and components not controlled by 3A001"
+1557,5A991,"Telecommunication equipment, not controlled by 5A001 (see List of Items Controlled)"
+1558,7A994,"Other navigation direction finding equipment, airborne communication equipment, and components therefor, as follows (see List of Items Controlled)"
+1560,2B991,Numerical control units for machine tools and numerically controlled machine tools
+1561,1A999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)"
+1562,4A994,"Computers, electronic assemblies and related equipment not controlled by 4A003"
+1563,3A992,General purpose electronic equipment not controlled by 3A002
+1564,3A999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)"
+1576,9A619,Military gas turbine engines
+1578,0A501,Firearms
+1579,6A001,"Acoustic systems, equipment and components"
+1580,1C350,Chemicals
+1581,2B352,Equipment Capable of Use in Handling Biological Materials
+1582,0A503,Discharge type arms
+1584,2B001,Machine tools
+1589,5D992,Information Security software not controlled by 5D002
+1590,EAR99,Items subject to the EAR that are not elsewhere specified
+1591,8A001,Submersible Vehicles and Surface Vessels
+1592,7A994,Other navigation direction finding equipment
+1593,3A001,Electronic items
+1595,9A991,"Aircraft, n.e.s., and gas turbine engines"
+1597,2B999,Specific Processing Equipment
+1598,5A991,Telecommunication equipment
+1600,8A992,"Vessels, marine systems or equipment"
+1601,1C990,Fibrous and filamentary materials
+1602,3A999,Specific Processing Equipment
+1603,4A994,"Computers, electronic assemblies"
+1604,1C992,Commercial charges and devices
+1607,0A504,Optical sighting devices for firearms (including shotguns controlled by
+1608,0A502,"Shotguns; shotguns ""parts"" and ""components,"" consisting of complete items"
+1609,0A606,"Ground vehicles and related commodities, as follows"
+1611,1C351,"Human and animal pathogens and toxins, as follows"
+1614,9A515,"""Spacecraft"" and related commodities, as follows"
+1615,9A001,Aero gas turbine engines having any of the following
+1616,5A002,"""Information security"" systems, equipment and ""components,"" as follows"
+1618,8A001,"Submersible Vehicles and Surface Vessels, as Follows"
+1620,9A991,"""Aircraft,"" n.e.s., and gas turbine engines not controlled by 9A001 or"
+1622,6A003,"Cameras, Systems or Equipment, and “Components” Therefor, as Follows"
+1634,6A993,"Cameras, not controlled by 6A003 or 6A203, as follows"
+1639,3B991,Equipment not controlled by 3B001 for the manufacture of electronic products
+1641,2B352,Equipment capable of use in handling biological materials
+1643,1C210,Fibrous or filamentary materials
+1650,5B002,"Information Security test, inspection and production equipment"
+1651,2B230,All types of pressure transducers capable of measuring absolute pressure
+1652,6A005,"Lasers, components and optical equipment"
+1654,3B001,Equipment for the manufacturing of semiconductor devices or materials
+1659,3B992,Equipment not controlled by 3B002 for the inspection or testing of electronic devices
+1660,3A991,Electronic devices and components
+1661,3A999,Specific processing equipment
+1662,4A994,"Computers, electronic assemblies and related equipment"
+1664,3A992,General purpose electronic equipment
+1666,1A607,"Military dissemination equipment for riot control agents, military"
+1667,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by"
+1669,2B001,Discharge type arms; non-lethal or less-lethal grenades and projectile
+1670,5A002,"Machine tools and any combination thereof, for removing (or cutting) m"
+1671,1A984,"Information security systems, equipment and components"
+1672,0A501,"Chemical agents, including tear gas formulation containing 1 percent o"
+1673,78611,Firearms (except 0A502 shotguns) and related commodities as follows
+1677,5A001,"Telecommunications systems, equipment, components and accessories"
+1679,1A004,Protective and Detection Equipment and Components
+1681,6A003,"Cameras, Systems or Equipment, and Components"
+1687,1A995,Protective and detection equipment not specially designed for military
+1689,4A994,"Computers, electronic assemblies and related equipment not controlled by"
+1692,1C992,"Commercial charges and devices containing energetic materials, n.e.s"
+1695,1C351,Human and animal pathogens and toxins
+1702,9B610,"Test, inspection, and production equipment"
+1708,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A610"
+1718,4A994,"Computers, electronic assemblies and related equipment not controlled by 4A001"
+1721,3A991,Electronic devices and components not controlled by 3A001
+1725,9A515,"""Spacecraft"" and related commodities"
+1727,1C107,Graphite and Ceramic Materials
+1737,9A991,"""Aircraft"", n.e.s., and gas turbine engines not controlled by 9A001 or"
+1740,5D002,"""Software"""
+1747,3B991,Equipment not controlled by 3B001
+1748,4A994,Computers
+1749,3A991,Electronic devices
+1751,6A998,Radar systems
+1754,7A103,"Instrumentation, navigation equipment and systems, other than those co"
+1757,3A611,"Military electronics, as follows (see List of Items Controlled)"
+1758,7A003,"'Inertial Measurement Equipment or Systems', Having any of the Followi"
+1759,0A606,"Ground vehicles and related commodities, as follows (see List of Items"
+1760,9A515,"""Spacecraft"" and related commodities, as follows (see List of Items Co"
+1761,6A002,"Optical Sensors and Equipment, and ""Components"" Therefor, as Follows"
+1762,9A619,Military gas turbine engines and related commodities (see List of Item
+1772,9A604,"Commodities related to launch vehicles, missiles, and rockets"
+1775,3B991,"Equipment not controlled by 3B001 for the manufacture of electronic ""p"
+1777,5A991,"Telecommunication equipment, not controlled by 5A001 (see List of Item"
+1778,3A999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items C"
+1779,6A998,"Radar systems, equipment and major ""components"", n.e.s., and ""speciall"
+1780,3A991,"Electronic devices, and ""components"" not controlled by 3A001"
+1781,1C210,"""Fibrous or filamentary materials"" or prepregs, other than those contr"
+1782,4A994,"Computers, ""electronic assemblies"" and related equipment not controlle"
+1786,3A001,Electronic items as follows
+1787,2B201,"Machine tools, and any combination thereof, other than those controlled by 2B001"
+1789,6A008,"Radar systems, equipment and assemblies"
+1795,5D002,Software as follows
+1797,5B002,"Digital computers, electronic assemblies, and related equipment"
+1806,4A994,"Computers, electronic assemblies and related equipment not controlled by 4A003 or 4A203"
+1808,6A993,"Cameras, not controlled by 6A003 or 6A203"
+1814,9A515,"Spacecraft and related commodities, as follows (see List of Items Controlled)"
+1815,3A001,Electronic items as follows (see List of Items Controlled).
+1817,9A619,Military gas turbine engines and related commodities (see List of Items Controlled)
+1818,3A233,"Mass spectrometers, capable of measuring ions of 230 atomic mass units"
+1819,2B201,"Machine tools, and any combination thereof, other than those controlled"
+1824,5B002,"Information Security test, inspection and production equipment, as follows"
+1829,7A103,"Instrumentation, navigation equipment and systems, other than those controlled"
+1836,2B999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)"
+1838,2B991,Numerical control units for machine tools and numerically controlled
+1839,3A992,General purpose electronic equipment not controlled by 3A002.
+1841,5B991,"Telecommunications test equipment, n.e.s"
+1843,2B350,"Chemical manufacturing facilities and equipment, except valves control"
+1847,6A003,"Cameras, Systems or Equipment, and ""Components"" Therefor, as Follows ("
+1850,1C350,Chemicals that may be used as precursors for toxic chemical agents (se
+1851,1A004,"Protective and Detection Equipment and ""Components,"" Not ""Specially De"
+1854,5D002,"""Software"" as follows (see List of Items Controlled)."
+1857,1C006,"Fluids and lubricating materials, as follows (see List of Items Contro"
+1865,2B999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items C"
+1866,1C992,"Commercial charges and devices containing energetic materials, n.e.s."
+1867,1C355,Chemical Weapons Convention (CWC) Schedule 2 and 3 chemicals and famil
+1868,3A991,"Electronic devices, and ""components"" not controlled by 3A001."
+1870,4A994,"Computers, “electronic assemblies” and related equipment not controlle"
+1877,7A003,Inertial Measurement Equipment or Systems
+1880,1A984,Chemical agents
+1888,1C006,Fluids and lubricating materials
+1890,3C003,Organo-inorganic compounds
+1892,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001"
+1893,3B991,Equipment not controlled by 3B001 for the manufacture of electronic
+1896,3B992,Equipment not controlled by 3B002 for the inspection or testing of ele
+1907,8A609,Surface vessels of war and related commodities
+1908,7B611,"Test, inspection, and production commodities specially designed for"
+1922,3B991,Equipment not controlled by 3B001 for the manufacture of electronic printed circuit boards
+1926,3B992,Equipment not controlled by 3B002 for the inspection or testing of electronic components
+1927,3A999,"Electronic devices, and components not controlled by 3A001"
+1928,2B999,Equipment not controlled by 3B002 for the inspection or testing of electronic components
+1929,2B230,"Specific Processing Equipment, n.e.s."
+1933,7A003,"Inertial Measurement Equipment or Systems, Having any of the Following"
+1935,0A606,"Ground vehicles and related commodities, as follows (see List of Items Controlled)"
+1936,7A611,"Military fire control, laser, imaging, and guidance equipment, as follows (see List of Items Controlled)"
+1937,0A614,"Military training equipment, as follows (see List of Items Controlled)"
+1940,1C111,"Propellants and constituent chemicals for propellants, other than those"
+1946,8A609,Surface vessels of war and related commodities (see List of Items Controlled)
+1948,3A001,Electronic items as follows (see List of Items Controlled)
+1950,3B991,"Equipment not controlled by 3B001 for the manufacture of electronic ""printed circuit boards"""
+1951,3B992,Equipment not controlled by 3B002 for the inspection or testing of electronic assemblies
+1954,3B001,"Equipment for the manufacturing of semiconductor devices or materials, n.e.s."
+1955,4A994,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)"
+1956,3A999,"Computers, electronic assemblies and related equipment not controlled by 3A002"
+1959,2A291,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)"
+1963,2B230,"All types of ""pressure transducers"" capable of measuring absolute pres"
+1964,2B201,"Machine tools, and any combination thereof, other than those controlle"
+1965,2B001,"Machine tools and any combination thereof, for removing (or cutting) m"
+1967,3A002,"General purpose ""electronic assemblies,"" modules and equipment, as fol"
+1969,2B006,"Dimensional Inspection or Measuring Systems, Equipment, Position Feedb"
+1972,5A002,"""Information Security"" systems, equipment and ""components,"" as follows"
+1975,5B002,"""Information Security"" test, inspection and ""production"" equipment, as"
+1976,3B001,"Equipment for the manufacturing of semiconductor devices or materials,"
+1977,9A604,"Commodities related to launch vehicles, missiles, and rockets (see Lis"
+1996,3A981,Polygraphs
+1999,1C111,Propellants and constituent chemicals for propellants
+2002,9B001,"Manufacturing Equipment, tooling or Fixtures"
+2008,2B201,Machine tools
+2013,5A992,Equipment
+2014,9A990,"Diesel engines, n.e.s., and tractors"
+2023,1C111,"Propellants and constituent chemicals for propellants, other than thos"
+2024,9B610,"Test, inspection, and production ""equipment"" and related commodities"
+2026,1B118,Continuous mixers having all of the following (see List of Items Contr
+2027,7B001,"Test, calibration or alignment equipment, ""specially designed"" for equ"
+2028,0A614,"Military training ""equipment,"" as follows (see List of Items Controlle"
+2031,5A002,"""Information security"" systems, equipment and ""components"", as follows"
+2036,6A003,"Cameras, Systems or Equipment, and ""Components"" Therefor, as Follows"
+2054,0A502,Shotguns; shotguns parts and components
+2056,3A981,Polygraphs (except biomedical recorders)
+2058,0A503,Discharge type arms; non-lethal or less-lethal grenades and projectiles
+2060,9A610,Software
+2063,4A003,"Digital computers, electronic assemblies, and related equipment"
+2065,6A004,Optical equipment and components
+2069,9A990,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A002"
+2074,4A994,"Diesel engines, n.e.s., and tractors and specially designed parts"
+2075,8A992,Portable electric generators and specially designed parts and components
+2077,3A992,"Computers, electronic assemblies and related equipment not controlled by 3A002"
+2078,6A998,Specific Processing Equipment
+2080,9A610,Military aircraft and related commodities
+2087,1A613,Armored and protective equipment
+2092,9A610,"Military aircraft and related commodities, other than those enumerated"
+2094,1A004,Protective and detection equipment and components
+2096,1A005,Body armor and specially designed components
+2097,7A994,"Radar systems, equipment and assemblies"
+2098,6A008,"Other navigation direction finding equipment, airborne communication equipment"
+2099,9A991,Aircraft
+2102,2B999,Specific processing equipment
+2105,1A999,Specific processing equipment
+2106,1A995,Protective and detection equipment
+2108,1C992,Commercial charges and devices containing energetic materials
+2115,1C230,"Beryllium metal, alloys containing more than 50% beryllium by weight,"
+2116,6A001,"Acoustic systems, equipment and ""components,"" as follows (see List of"
+2117,2B352,"Equipment Capable of Use in Handling Biological Materials, as Follows"
+2125,6A005,"""Lasers,"" ""components"" and optical equipment, as follows (see List of"
+2126,1C008,Non-fluorinated polymeric substances as follows (see List of Items Con
+2148,6A002,"Optical Sensors and Equipment, and Components Therefor"
+2152,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A110"
+2157,EAR99,EAR99 Items subject to the EAR that are not elsewhere specified in this CCL
+2163,4A994,"Computers, electronic assemblies and related equipment not controlled by 5A001"
+2166,5A994,Equipment not controlled by 5A001
+2167,3A991,"Electronic devices, and components"
+2174,2B230,All types of pressure transducers capable of measuring absolute pres
+2176,3C004,"Hydrides of phosphorus, arsenic or antimony, having a purity better th"
+2177,7A003,"Inertial Measurement Equipment or Systems, Having any of the Followi"
+2183,1C006,"Fluids and lubricating materials, as follows (see List of Items Controlled)"
+2186,3C001,Hetero-epitaxial materials consisting of a substrate having stacked
+2187,3A002,"General purpose electronic assemblies, modules and equipment, as fol"
+2189,3B991,Equipment not controlled by 3B001 for the manufacture of electronic p
+2193,3A991,"Electronic devices, and components not controlled by 3A001."
+2203,6A003,"Cameras, Systems or Equipment, and Components Therefor, as Follows ("
+2205,7A611,"Military fire control, laser, imaging, and guidance equipment, as foll"
+2207,1A613,"Armored and protective equipment and related commodities, as follows"
+2208,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by 7A005 or 7A104"
+2211,1C998,"Non-fluorinated polymeric substances, not controlled by 1C008, as follows"
+2213,7A994,"Other navigation direction finding equipment, airborne communication equipment, and related commodities"
+2216,6A001,"Acoustic systems, equipment and components, as follows (see List of"
+2217,5D002,Software as follows (see List of Items Controlled).
+2225,1A999,"Specific Processing Equipment, n.e.s., as Follows (See List of Items C"
+2226,5D992,Information Security software not controlled by 5D002 as follows (
+2228,0B505,"Test, inspection, and production equipment and related commodities"
+2231,0A504,Optical sighting devices for firearms
+2234,6A003,"Cameras, systems or equipment, and components"
+2235,0A502,Shotguns
+2243,EAR99,Items subject to the EAR
+2244,9A991,"""Aircraft"""
+2246,2B991,Numerical control units for machine tools
+2247,6A005,"""Lasers"""
+2252,3A991,Specific processing equipment
+2253,3A992,Specific processing equipment
+2263,3A101,"Electronic equipment, devices, ""parts"" and ""components,"" other than those"
+2265,7A003,"""Inertial Measurement Equipment or Systems"", Having any of the Following"
+2274,7A611,"Military fire control, laser, imaging, and guidance equipment, as follows"
+2275,1A613,"Armored and protective “equipment” and related commodities, as follows"
+2278,9A991,"Aircraft,"" n.e.s., and gas turbine engines not controlled by 9A001 or"
+2279,7A994,Equipment not controlled by 5A002
+2280,5A992,"Other navigation direction finding equipment, airborne communication equipment"
+2282,4A994,"Computers, ""electronic assemblies"" and related equipment not controlled"
+2283,3B991,"Diesel engines, n.e.s., and tractors and ""specially designed"" ""parts"""
+2284,2B999,"Equipment not controlled by 3B001 for the manufacture of electronic ""p"
+2285,3A992,"Specific Processing Equipment, n.e.s., as Follows"
+2287,3A999,"Specific Processing Equipment, n.e.s., as Follows"
+2288,1B118,Continuous mixers having all of the following
+2289,2B001,"Machine tools and any combination thereof, for removing or cutting material"
+2290,2D002,"Software for electronic devices, even when residing in an electronic device"
+2299,2A001,"Anti-friction bearings, bearing systems and components"
+2303,4A994,"Computers, electronic assemblies and related equipment not controlled by 4A001 or 4A002"
+2306,1C980,Inorganic chemicals listed in Supplement No. 1 to part 754 of the EAR
+2314,9A001,Aero gas turbine engines
+2317,2B350,Ground vehicles and related commodities
+2331,4A994,"Computers, electronic assemblies and related equipment not controlled"
+2338,5A002,Ammunition as follows
+2339,9A991,Firearms (except 0A502 shotguns) and related commodities as follows
+2340,9A515,Optical sighting devices for firearms (including shotguns controlled by 0A502)
+2341,7A994,Military electronics
+2342,5D002,"Chemical manufacturing facilities and equipment, except valves controlled by 2B350"
+2343,7A103,"Gyros, other than those controlled by 7A002"
+2344,EAR99,"Cameras, Systems or Equipment, and Components Therefor"
+2345,3A002,Military gas turbine engines and related commodities
+2346,6A003,"Information security systems, equipment and components"
+2347,9A619,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A110"
+2348,0A502,"Information security systems, equipment and components"
+2349,0A501,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A110"
+2350,0A504,Spacecraft and related commodities
+2351,9A515,"Other navigation direction finding equipment, airborne communication equipment"
+2352,3A611,Software
+2353,2B350,"Instrumentation, navigation equipment and systems"
+2354,7A102,Items subject to the EAR that are not elsewhere specified in this CCL
+2355,6A003,"General purpose electronic assemblies, modules and equipment"
+2356,9A619,Military electronics
+2357,5A002,General purpose electronic equipment not controlled by 3A002
+2366,4A994,"Computers, electronic assemblies and related equipment not controlled by 1A003"
+2371,3A231,"Neutron generator systems, including tubes, having both of the charact"
+2373,1A004,"Protective and Detection Equipment and “Components,” Not “Specially De"
+2374,1A007,"Equipment and devices, “specially designed” to initiate charges and de"
+2376,5A002,"“Information security” systems, equipment and “components,” as follows"
+2384,9A991,"“Aircraft,” n.e.s., and gas turbine engines not controlled by 9A001 or"
+2385,3A002,"General purpose “electronic assemblies,” modules and equipment, as fol"
+2387,3B611,"Test, inspection, and production commodities for military electronics,"
+2395,9A990,"Diesel engines, n.e.s., and tractors and “specially designed” “parts”"
+2400,0A978,"Law enforcement striking weapons, including saps, police batons, side handles, and similar items"
+2401,1A004,"Protective and Detection Equipment and Components, Not Specially Designed"
+2402,2B350,"Chemical manufacturing facilities and equipment, except valves control units"
+2404,1A985,"Armored and protective equipment and related commodities, as follows"
+2409,1A006,"Equipment, specially designed or modified for the disposal of Improvised Explosive Devices"
+2412,5D992,Information Security software not controlled by 5D002 as follows
+2420,9E991,"Technology, for the development, production or use of equipment"
+2425,6A992,"Optical Sensors, not controlled by 6A002, as follows (see List of Items Controlled)"
+2426,4A994,"Computers, electronic assemblies, and related equipment not controlled by 3A001"
+2427,3A999,Electronic items as follows (see List of Items Controlled)
+2437,9B619,"Test, inspection, and production equipment"
+2446,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by 9A001 or 9A610"
+2460,3A991,Specific Processing Equipment
+2461,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A991"
+2462,7A994,"Electronic devices, and components not controlled by 3A001"
+2463,1A999,"Telecommunication equipment, not controlled by 5A001"
+2464,5A991,"Computers, electronic assemblies and related equipment not controlled by 5A001"
+2465,7E994,"Technology, n.e.s., for the development, production, or use of commodities controlled by 3A, 3B, or 3C"
+2479,6A003,"Cameras, Systems or Equipment"
+2486,1A004,Protective and Detection Equipment
+2503,0A502,"Shotguns; shotguns parts and components, consisting of complete tr"
+2509,9B604,"Test, inspection, and production equipment and related commodities"
+2510,9A001,Aero gas turbine engines having any of the following (see List of Items)
+2519,5B002,"Information Security test, inspection and production equipment, as"
+2526,9E991,"Technology, for the development, production or use of equipmen"
+2531,9A991,Equipment Capable of Use in Handling Biological Materials
+2532,2B352,Items subject to the EAR that are not elsewhere specified in this CCL
+2533,EAR99,Electronic items
+2534,3A001,"Other navigation direction finding equipment, airborne communication"
+2535,7A994,Equipment not controlled by 3B001 for the manufacture of electronic
+2536,3B991,Equipment not controlled by 3B002 for the inspection or testing of ele
+2537,3B992,"Chemical manufacturing facilities and equipment, except valves control"
+2538,2B350,Fibrous or filamentary materials or prepregs
+2539,1C210,"Information security systems, equipment and components"
+2558,7A994,"Other navigation direction finding equipment, airborne communication"
+2564,3B611,"Test, inspection, and production commodities for military electronics, as follows (see List of Items Controlled)"
+2565,6A001,"Acoustic systems, equipment and components, as follows (see List of Items Controlled)"
+2566,0A501,Firearms (except 0A502 shotguns) and related commodities as follows (see List of Items Controlled)
+2567,1A613,"Armored and protective equipment and related commodities, as follows (see List of Items Controlled)"
+2569,0A602,Guns and Armament as follows (see List of Items Controlled)
+2573,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by 5A001 or 5A002"
+2574,7A994,"Other navigation direction finding equipment, airborne communication equipment, and related commodities (see List of Items Controlled)"
+2584,4A994,"Computers, electronic assemblies and related equipment not controlled by 4A003 or 4A004"
+2585,2B999,"Vessels, marine systems or equipment, not controlled by 8A001 or 8A002"
+2586,8A992,"Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)"
+2587,4A003,Protective and detection equipment not specially designed for military applications
+2599,6A002,Optical Sensors and Equipment
+2603,5B991,Telecommunications test equipment
+2615,9E991,"Technology for the development, production or use of equipment"
+2617,6A998,"Radar systems, equipment and major components"
+2618,4A994,"Computers, electronic assemblies and related equipment not controlled by 3A001"
+2620,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by 7A004 or 7A104"
+2648,1C210,Fibrous or filamentary materials or prepregs
+2651,9A515,"Spacecraft and related commodities, as follows"
+2655,1C202,"Information security systems, equipment and components, as follows"
+2656,5A002,"Test, inspection, and production commodities specially designed for"
+2658,7B611,"Instrumentation, navigation equipment and systems, other than those controlled"
+2659,7A103,Alloys other than those controlled by 1C002.b.3 or 1C002.b.4 as follows
+2669,2B001,"Machine tools and any combination thereof, for removing (or cutting) material"
+2696,6A006,Protective and Detection Equipment and Components
+2697,1A004,"Magnetometers, magnetic gradiometers, intrinsic magnetic gradiometers"
+2708,1C991,"Vaccines, immunotoxins, medical products, diagnostic and food testing"
+2735,3B992,Equipment not controlled by 3B002
+2736,1C995,"Mixtures not controlled by ECCN 1C350, ECCN 1C355 or ECCN 1C395"
+2737,4A994,"Computers, electronic assemblies and related equipment not controlled by 3A002"
+2744,9B610,Spacecraft and related commodities
+2745,0A602,"Test, inspection, and production equipment"
+2746,9B610,Guns and armament
+2754,9B604,"Test, inspection, and production equipment"
+2761,3B992,Equipment not controlled by 3B002 for the inspection or testing of electronic products
+2764,7A994,Specific Processing Equipment
+2765,3A999,Electronic items
+2766,3A001,Electronic devices and components
+2768,2B230,All types of pressure transducers
+2787,1A607,"Military dissemination equipment for riot control agents, military d"
+2807,3A611,"General purpose electronic assemblies, modules and equipment"
+2808,2B350,Chemical manufacturing facilities and equipment
+2828,5B991,Specific Processing Equipment
+2834,3A981,Polygraphs (except biomedical recorders designed for use in medical fa
+2835,0A614,"Military training equipment, as follows (see List of Items Controlle"
+2841,9B001,"Manufacturing Equipment, tooling or Fixtures, as Follows (See List of)"
+2858,1A995,Chemicals that may be used as precursors for toxic chemical agents
+2864,3A611,Military gas turbine engines and related commodities
+2866,9A012,Military electronics
+2867,9A619,Non-military Unmanned Aerial Vehicles
+2879,9A991,Aircraft and gas turbine engines not controlled by 9A001 or 9A002
+2882,5A991,Telecommunication equipment not controlled by 5A001
+2914,1A999,"Specific Processing Equipment, n.e.s."
+2916,0A617,"Miscellaneous Equipment, Materials, and Related Commodities"
+2918,1A995,Protective and detection equipment not specially designed for military applications
+2920,0A504,Optical sighting devices for firearms (including shotguns controlled by)
+2922,1B608,"Test, inspection, and production equipment and related commodities"
+2926,0A982,"Law enforcement restraint devices, including leg irons, shackles, and"
+2927,3A231,"Neutron generator systems, including tubes, having both of the characteristics"
+2928,9A012,"Non-military Unmanned Aerial Vehicles (UAVs), unmanned airships"
+2944,6A998,"Radar systems, equipment and major components, n.e.s., and specially designed parts"
+2951,6A005,"Acoustic systems, equipment and components, as follows (see List of Items Controlled)"
+2952,1C008,"Equipment Capable of Use in Handling Biological Materials, as Follows"
+2958,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by 9A001 or 9A103"
+2961,6A001,"Lasers, components and optical equipment, as follows (see List of Items Controlled)"
+2962,9A619,"Equipment for the manufacturing of semiconductor devices or materials,"
+2963,2B350,Military gas turbine engines and related commodities (see List of Items Controlled)
+2964,2B230,"Military Aircraft and Related Commodities, Other Than Those Enumerated"
+2965,3A233,"Instrumentation, navigation equipment and systems, other than those controlled by 9A001 or 9A103"
+2966,3A611,Non-fluorinated polymeric substances as follows (see List of Items Controlled)
+2968,7A103,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A103"
+2969,9A991,"Aircraft, n.e.s., and gas turbine engines not controlled by 9A001 or 9A103"
+2976,7A994,"Other navigation direction finding equipment, airborne communication equipment, and related equipment not controlled by 3A002"
+2977,4A994,"Computers, electronic assemblies, and related equipment not controlled by 3A002"
+2995,5D002,"Software, as follows"
+3005,2B999,"Specific Processing Equipment, n.e.s., as Follows"
+3013,2B230,"All types of ""pressure transducers"" capable of measuring absolute pressure"
+3015,9B610,"Test, inspection, and production ""equipment"""
+3017,9A515,Spacecraft
+3018,3A233,Mass spectrometers
+3032,9A991,"""Aircraft"", n.e.s., and gas turbine engines not controlled by 9A001 or 9A101"
+3035,3B090,Semiconductor manufacturing equipment
+3042,7A003,"Inertial Measurement Equipment or Systems', Having any of the Following"
+3043,9A604,"Commodities related to launch vehicles, missiles, and rockets (see List of Items Controlled)"
+3048,7A103,"Instrumentation, navigation equipment and systems, other than those controlled by 7A004"
+3058,7A994,"Other navigation direction finding equipment, airborne communication equipment, and components therefor"
+3065,4A994,"Computers, ""electronic assemblies"" and related equipment not controlled by 3A002"
+3067,8A992,General purpose electronic equipment not controlled by 3A002
+3068,9A610,"Vessels, marine systems or equipment, not controlled by 8A001 or 8A002"
+3072,1A004,"Protective and Detection Equipment and ""Components"", Not ""Specially De"
+3074,6A003,"""Information security"" systems, equipment and ""components"", as follows"
+3075,5A002,"Cameras, Systems or Equipment, and ""Components"" Therefor, as Follows"
+3076,1A005,"Body armor and ""specially designed"" ""components"" therefor, as follows"
+3077,9A012,"Non-military “Unmanned Aerial Vehicles,” (“UAVs”), unmanned ""airships"""
+3078,6A008,"Radar systems, equipment and assemblies, having any of the following"
+3079,1A004,"Protective and Detection Equipment and ""Components"", Not ""Specially Designed"""
+3082,1A607,"Military dissemination “equipment” for riot control agents, military d"
+3083,1A613,"Armored and protective ""equipment"" and related commodities, as follows"
+3084,1A006,"Equipment, ""specially designed"" or modified for the disposal of Improv"
+3107,3A101,"Electronic equipment, devices, parts and components"
+3125,1C202,Alloys other than those controlled by 1C002.b.3 or 1C002.b.4
+3126,4A994,"Computers, electronic assemblies and related equipment not controlled by 3B001"
+3127,3B991,Equipment not controlled by 3B001 for the manufacture of electronic parts
+3158,3A999,"Specific Processing Equipment, n.e.s"

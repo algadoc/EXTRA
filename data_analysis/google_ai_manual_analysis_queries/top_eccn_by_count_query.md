@@ -1,0 +1,1 @@
+Extract the top ten ECCNs by count and their descriptions exported under a license, with a license exception, or under NLR with ECCN reported from page {top_eccn_by_count_report} from the {country} report. Report the ECCNs in descending order.

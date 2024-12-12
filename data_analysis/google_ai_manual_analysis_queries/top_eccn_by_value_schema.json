@@ -1,0 +1,57 @@
+{
+    "type": "object",
+    "properties": {
+      "country": {
+        "type": "string"
+      },
+      "report_year": {
+        "type": "number"
+      },
+      "top_eccn_value_licensed_eccn_codes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "top_eccn_value_exceptions_eccn_codes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "top_eccn_value_nlr_with_eccn_eccn_codes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "top_eccn_value_licensed_descriptions": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "top_eccn_value_exceptions_descriptions": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "top_eccn_value_nlr_with_eccn_descriptions": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "country",
+      "report_year",
+      "top_eccn_value_licensed_eccn_codes",
+      "top_eccn_value_exceptions_eccn_codes",
+      "top_eccn_value_nlr_with_eccn_eccn_codes",
+      "top_eccn_value_licensed_descriptions",
+      "top_eccn_value_exceptions_descriptions",
+      "top_eccn_value_nlr_with_eccn_descriptions"
+    ]
+  }

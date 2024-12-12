@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "string"
+    },
+    "report_year": {
+      "type": "number"
+    },
+    "commodities_traded_type": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "commodities_traded_import_percentage": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "commodities_traded_export_percentage": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    }
+  },
+  "required": [
+    "country",
+    "report_year",
+    "commodities_traded_type",
+    "commodities_traded_import_percentage",
+    "commodities_traded_export_percentage"
+  ]
+}
