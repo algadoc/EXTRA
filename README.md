@@ -58,7 +58,7 @@ This notebook loads all available reports in `trade_analysis_pdfs` and provides 
 
 Stores all the JSON objects with the information extracted from the model responses.
 
-### ``google_ai_response_analysis`
+### `google_ai_response_analysis`
 
 Contains the analysis performed on the data gathered by the model. The notebook `data_parsing.ipynb` contains the functions used to generate the graphs and csv files in the directory.
 
